@@ -2,7 +2,7 @@
 
 - [ ] Read the Certification Guidelines.
 - [ ] Secure ten (10) currently enrolled Pitt students as initial members. You will need at least 1 president, vice president, and business manager to start.
-- [ ] Secure a full-time faculty or staff member at the University to serve as your advisor.
+- [x] Secure a full-time faculty or staff member at the University to serve as your advisor.
 - [ ] Write a constitution for your organization following the Constitution Requirements.
 - [ ] Completing the Online Application
 
