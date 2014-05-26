@@ -6,7 +6,7 @@ From [the SORC website](http://www.studentaffairs.pitt.edu/SORCneworganization)
 - [x] Read the Certification Guidelines.
 - [ ] Secure ten (10) currently enrolled Pitt students as initial members. You will need at least 1 president, vice president, and business manager to start.
 - [x] Secure a full-time faculty or staff member at the University to serve as your advisor.
-- [ ] Write a constitution for your organization following the Constitution Requirements.
+- [ ] Write a constitution for your organization following the [Constitution Requirements](http://www.studentaffairs.pitt.edu/sites/default/files/PDFsandForms/SORC/ConstitutionRequirementsRevised5.1.12.pdf).
 - [ ] Completing the Online Application
 
 # Completing the Online Application
