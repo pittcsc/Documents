@@ -33,4 +33,25 @@ The <name> has been created as a extracurricular resource for Computer Science s
 Pittsburgh's non-discrimination policy, will be used as a condition of membership in the organization. These
 factors include race, color, religion, national origin, ancestry, sex, age, marital status, familial status, sexual
 orientation, gender identity and expression, genetic information, disability or status as a veteran.
-5. **Add some more?**
+5. Membership is not limited to students majoring in Computer Science.
+6. There are no financial requirements for membership.
+
+VIII) Membership Procedures
+1. Recruitment: Recruitment for <name> will occur throughout the year, though primarily at the beginning of the Spring and Fall semesters.
+2. Application and Selection: As an optional educational extracurricular club, <name> will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be willing to participate in club activities at least once per semester. 
+3. Inactive members: Members of <name> who fail to attend to contribute to club activities within a period of an academic year will be presumed inactive and removed from the club roster. 
+4. Reinstation: To be reinstated as members, individuals should provide updated contact information and attend or contribute to club activities within a semester of doing so.
+
+IX) Voting Privileges 
+Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must have attended or contributed to a club activity within two weeks of the vote.
+
+X) Associate Membership
+1. Policies regarding Associate Membership will follow the procedures laid out in Section VIII. Associate members may not vote, hold office nor serve in a formal leadership role. They may participate in organization meetings and activities. Pitt student membership shall comprise of at least 75% of the total membership at all times.
+
+XI) Officers
+The organization shall have the following officers...
+
+XII) Terms of Office
+
+<…>
+
