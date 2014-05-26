@@ -1,25 +1,81 @@
-I) Should pick name
-II)Effectively finished
-III)Effectively finished
-IV) Effectively finished
-V) Written, but should be discussed and possibly expanded
-VI) Needs to be written and discussed. I (Daniel) volunteer to do this, but someone would nee to look it over.
-VII) Effectively finished, but should be discussed or expanded.
-VIII) Effectively finished, but should be discussed or expanded.
-IX) Effectively finished, but conditions were adlibbed. Should be discussed or expanded.
-X) Effectively finished but... etc.
-XI) Needs to be decided.
-XII) Needs to be decided.
-XIII) Needs to be decided.
-XIV) Needs to be decided.
-XV) Needs to be decided.
-XVI) Needs to be decided.
-XVII) Needs to be decided.
-XVIII) Needs to be decided.
-XIX) Needs to be decided.
-XX) Needs to be decided.
-XXI) Effectively finished. Note, there is a hilarious mispelling in their official statement on line four. Incite, not insight. I volunteer to bring this to the attention of the proper authorities.
-XXII) Needs to be decided.
-XXIII) Needes to be decided.
-XXIV)Needs to be decided.
-XXV) Needs to be decided. Let's keep this very, very, very flexible, eh wot.
+- [ ] I) Name of Organization
+  - [ ] Need to finalize name
+- [x] II) Acceptance and Compliance to Certification Requirements and Limitations
+  - Boilerplate statement
+- [x] III) Limits of Certification
+  - Boilerplate statement
+- [x] IV) Annual Recertification
+  - Boilerplate statement
+- [ ] V) Purpose
+  - [ ] Needs discussion and expansion
+- [ ] VI) Activities
+  - [ ] First draft (Daniel)
+  - [ ] Review and revision
+- [ ] VII) Membership Requirements
+  - [ ] Needs discussion and expansion
+- [ ] VIII) Membership Procedures
+  - [ ] Needs discussion and expansion
+- [ ] IX) Voting Privileges
+  - [ ] Needs discussion and expansion
+- [ ] X) Associate Membership
+  - [ ] Needs discussion and expansion
+- [ ] XI) Officers
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XII) Terms of Office
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XIII) Officer Responsibilities and Duties
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XIV) Election of Officers
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XV) Voting Powers of Officers
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XVI) Removal of Officers
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XVII) Vacancies
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XVIII) Committees
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XIX) Meetings
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XX) Finances
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XXI) Publications Code
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XXII) Advisor
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XXIII) External Affiliations
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XXIV) By-Laws
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision
+- [ ] XXIV) Amendments
+  - [ ] Pending decision
+  - [ ] First draft
+  - [ ] Review and revision

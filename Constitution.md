@@ -36,46 +36,50 @@ orientation, gender identity and expression, genetic information, disability or 
 5. Membership is not limited to students majoring in Computer Science.
 6. There are no financial requirements for membership.
 
-VIII) Membership Procedures
+## VIII) Membership Procedures
+
 1. Recruitment: Recruitment for <name> will occur throughout the year, though primarily at the beginning of the Spring and Fall semesters.
-2. Application and Selection: As an optional educational extracurricular club, <name> will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be willing to participate in club activities at least once per semester. 
-3. Inactive members: Members of <name> who fail to attend to contribute to club activities within a period of an academic year will be presumed inactive and removed from the club roster. 
+2. Application and Selection: As an optional educational extracurricular club, <name> will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be willing to participate in club activities at least once per semester.
+3. Inactive members: Members of <name> who fail to attend to contribute to club activities within a period of an academic year will be presumed inactive and removed from the club roster.
 4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to club activities within a semester of doing so.
 
-IX) Voting Privileges 
+## IX) Voting Privileges
+
 Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must have attended or contributed to a club activity within two weeks of the vote.
 
-X) Associate Membership
+## X) Associate Membership
+
 1. Policies regarding Associate Membership will follow the procedures laid out in Section VIII. Associate members may not vote, hold office nor serve in a formal leadership role. They may participate in organization meetings and activities. Pitt student membership shall comprise of at least 75% of the total membership at all times.
 
-XI) Officers
+## XI) Officers
+
 The organization shall have the following officers...
 
-XII) Terms of Office
+## XII) Terms of Office
 
 <…>
-XIII) Officer Responsibilities and Duties
-
-<…>
-
-XIV) Election of Officers
+## XIII) Officer Responsibilities and Duties
 
 <…>
 
-XV) Voting Powers of Officers
+## XIV) Election of Officers
+
+<…>
+
+## XV) Voting Powers of Officers
 Generally officers retain voting rights, however, the chairperson often votes only in the event of a tie. This MUST be addressed.
-XVI) Removal of Officers
+## XVI) Removal of Officers
 You MUST define the process by which officers are removed, who votes, the vote required to approve removal and how the officer is replaced.
-XVII) Vacancies
+## XVII) Vacancies
 When an officer resigns or is removed, the vacancy should be filled. The process by which vacancies are filled and how the decision is made to fill or not fill the vacancy MUST be defined. Also, the term of the replacement officer, generally the remainder of the current term of office MUST be specified.
-XVIII) Committees
+## XVIII) Committees
 The name, function, composition and specific purpose and responsibilities for each committee MUST be identified. Who chairs the committee or how the chairperson is selected MUST also be specified along with the powers and duties of the chair and to whom the chair reports. How standing and ad hoc committees are established and terminated MUST also be addressed.
-XIX) Meetings
+## XIX) Meetings
 The organization MUST determine how regular meetings are scheduled and specify who may attend the meeting. Quorum requirements MUST be determined to officially conduct and approve the business of the organization. In addition, you MUST state how and by whom special meetings can be called and what kind of notice is required. Lastly, the chairperson MUST be specified along with the powers of the chair and Rules of Order for meetings.
-XX) Finances
+## XX) Finances
 The budget policies and procedures and the authority to spend the money of the organization MUST be defined along with any limitations on how the funds can be spent. This statement MUST follow. “ The organization will not maintain an outside bank account if it receives funding from SGB.”
-XXI) Publications CodeIn compliance with the Publications Code for Student Organizations, all the publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain for expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process or the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a certified student organization at the University of Pittsburgh.
-XXII) AdvisorAll organizations MUST have a full-time Pitt faculty or staff advisor. How the advisor is selected andremoved and the advisor's role, responsibilities, duties and authority of the advisor should be defined.
-XXIII) External AffiliationsAny external affiliations MUST be disclosed and should be identified in the constitution. This section MUSTspecify how the organization relates to external affiliates and the requirements of the relationship.
-XXIV) By-LawsBy-laws that provide guidance for the operation of the organization in a consistent manner MUST beincluded in the constitution.
-XXV) AmendmentsThe constitution MUST provide the means to approve amendments. The procedures and the required vote for amending the constitution must be outlined in detail.
+## XXI) Publications CodeIn compliance with the Publications Code for Student Organizations, all the publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain for expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process or the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a certified student organization at the University of Pittsburgh.
+## XXII) AdvisorAll organizations MUST have a full-time Pitt faculty or staff advisor. How the advisor is selected andremoved and the advisor's role, responsibilities, duties and authority of the advisor should be defined.
+## XXIII) External AffiliationsAny external affiliations MUST be disclosed and should be identified in the constitution. This section MUSTspecify how the organization relates to external affiliates and the requirements of the relationship.
+## XXIV) By-LawsBy-laws that provide guidance for the operation of the organization in a consistent manner MUST beincluded in the constitution.
+## XXV) AmendmentsThe constitution MUST provide the means to approve amendments. The procedures and the required vote for amending the constitution must be outlined in detail.
