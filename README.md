@@ -1,4 +1,4 @@
-Constitution
+Documents
 ============
 
-Our club's constitution, made available online for collaboration
+Our club's important documents, made available online for collaboration
