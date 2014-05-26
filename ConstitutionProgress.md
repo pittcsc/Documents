@@ -1,4 +1,4 @@
-I) Should pick name\n
+I) Should pick name
 II)Effectively finished
 III)Effectively finished
 IV) Effectively finished
