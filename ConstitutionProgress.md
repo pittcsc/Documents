@@ -1,4 +1,4 @@
-I) Should pick name
+I) Should pick name\n
 II)Effectively finished
 III)Effectively finished
 IV) Effectively finished
@@ -22,4 +22,4 @@ XXI) Effectively finished. Note, there is a hilarious mispelling in their offici
 XXII) Needs to be decided.
 XXIII) Needes to be decided.
 XXIV)Needs to be decided.
-XXV) Needs to be decided. Let's keep this very, very, very flexible, eh wot.o
+XXV) Needs to be decided. Let's keep this very, very, very flexible, eh wot.
