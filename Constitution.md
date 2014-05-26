@@ -18,7 +18,7 @@ The organization will submit its annual recertification application to the SORC 
 
 ## V) Purpose
 
-*State the specific purpose for which the organization has been created. Be complete and precise.*
+The <name> has been created as a extracurricular resource for Computer Science students and students of other majors interested in Computer Science. It is intended to provide supplemental education, opportunities for professional networking, and experience with non-scholastic projects. The goal of <name> is to empower University of Pittsburgh students with the confidence and the agency to succeed during their time as students, as well as beyond graduation.
 
 ## VI) Activities
 
