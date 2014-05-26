@@ -18,7 +18,7 @@ The organization will submit its annual recertification application to the SORC 
 
 ## V) Purpose
 
-The <name> has been created as a extracurricular resource for Computer Science students and students of other majors interested in Computer Science. It is intended to provide supplemental education, opportunities for professional networking, and experience with non-scholastic projects. The goal of <name> is to empower University of Pittsburgh students with the confidence and the agency to succeed during their time as students, as well as beyond graduation.
+The <name> has been created as an extracurricular resource for Computer Science students and students of other majors interested in Computer Science. It is intended to provide supplemental education, opportunities for professional networking, and experience with non-scholastic projects. The goal of <name> is to empower University of Pittsburgh students with the confidence and the agency to succeed during their time as students, as well as beyond graduation.
 
 ## VI) Activities
 
@@ -40,7 +40,7 @@ VIII) Membership Procedures
 1. Recruitment: Recruitment for <name> will occur throughout the year, though primarily at the beginning of the Spring and Fall semesters.
 2. Application and Selection: As an optional educational extracurricular club, <name> will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be willing to participate in club activities at least once per semester. 
 3. Inactive members: Members of <name> who fail to attend to contribute to club activities within a period of an academic year will be presumed inactive and removed from the club roster. 
-4. Reinstation: To be reinstated as members, individuals should provide updated contact information and attend or contribute to club activities within a semester of doing so.
+4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to club activities within a semester of doing so.
 
 IX) Voting Privileges 
 Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must have attended or contributed to a club activity within two weeks of the vote.
