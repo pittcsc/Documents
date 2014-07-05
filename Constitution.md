@@ -10,7 +10,7 @@ University of Pittsburgh Computer Science Club, AKA:
 
 ## II) Acceptance and Compliance to Certification Requirements and Limitations
 
-The Pitt CSC and its membership accept and will fully comply with the requirements and limitations of certification."
+The Pitt CSC and its membership accept and will fully comply with the requirements and limitations of certification.
 
 ## III) Limits of Certification
 
@@ -30,15 +30,15 @@ The purpose of the Pitt Computer Science Club are threefold, and outlined as suc
 
 ### Networking
 
-One of the main goals of the Pitt Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so we will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh, with the hope helping students realize good future careers and even connect the to potential employers.
+One of the main goals of the Pitt Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so we will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh, with the hope of helping students realize good future careers and even connect with potential employers.
 
 ### Education
 
-One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace.  We hope to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through biweekly presentations, created and performed by students, which will give attendees a basic level of knowledge in the presentation subject.  Each of these presentations will be recorded or in some way be made available to all member of the club in the future as a reference tool for future learning.
+One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace.  We hope to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through biweekly presentations, created and performed by students, which will give attendees a basic level of knowledge in the presentation subject.  Each of these presentations will be recorded or in some way be made available to all members of the club as references for future learning.
 
 ### Experience
 
-Lastly, practical experience is hard to come by, unless you have a focused way of going about getting it.  The Pitt CS Club hopes to offer these opportunities to students through a series of semester-long projects, which club members will partake in based on their areas of interest and level of experience.  Beginner students will collaborate with knowledgable ones, working together to build an open source project that will always be available to them as a testament to their skills and abilities.  In addition, the projects will stay under the ownership of the club, meaning that all of the code will remain as a reference tool for future learning.
+Lastly, practical experience is hard to come by, unless you have a focused way of achieving it.  The Pitt CS Club hopes to offer these opportunities to students through a series of semester-long projects, which club members will partake in based on their individual areas of interest and levels of experience.  Beginner students will collaborate with knowledgable ones, working together to build an open source project that will always be available to them as a testament to their skills and abilities.  In addition, the projects will stay under the ownership of the club, meaning that all of the code will remain to guide future learning.
 
 ## VII) Membership Requirements
 
@@ -54,22 +54,22 @@ orientation, gender identity and expression, genetic information, disability or 
 ## VIII) Membership Procedures
 
 1. Recruitment: Recruitment for the Pitt CSC will occur throughout the year, though primarily at the beginning of the Spring and Fall semesters.
-2. Application and Selection: As an optional educational extracurricular club, the Pitt CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in group activities.  Regular participation is defined as making a commitment to contribute to group projects on a weekly basis and making oneself available to come to meetings every week.
+2. Application and Selection: As an optional cocurricular club, the Pitt CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in group activities.  Regular participation is defined as making a commitment to contribute to group projects on a weekly basis and making oneself available to come to meetings every week.
 3. Inactive members: Members of the Pitt CSC who fail to attend to contribute to club activities within a period of an academic year will be presumed inactive and removed from the club roster.  Students that are inactive for a semester will not be placed on a project team for the following semester.
 4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to club activities within a semester of doing so.
 
 ## IX) Voting Privileges
 
-Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must have attended or contributed to a club activity within two weeks of the vote as well as be an active project team member for the duration of the semester.
+Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must have attended or contributed to a club activity within two weeks of the vote and have been an active project team member for the duration of the semester.
 
 ## X) Associate Membership
 
 1. Policies regarding Associate Membership will follow the procedures laid out in Section VIII. Associate members may not vote, hold office nor serve in a formal leadership role. They may participate in organization meetings and activities. Pitt student membership shall comprise of at least 75% of the total membership at all times.
-2. Associate membership is comprised of students from neighboring universities and graduates that are interested in participating in the club's activites.  They will not be actively recruited, but are welcome to attend if interested.
+2. Associate membership is comprised of students from neighboring universities and graduates that are interested in participating in the club's activities.  They will not be actively recruited, but are welcome to attend and participate in club affairs if interested.
 
 ## XI) Officers
 
-The organization shall have the following officers...
+The organization shall have the following officers:
 
 1. President
 2. Vice President
@@ -80,13 +80,13 @@ The organization shall have the following officers...
 
 ## XII) Terms of Office
 
-Officers will begin their terms at the Spring semester and will continue until the end of the proceeding Fall semester.
+Officers will begin their terms in the Spring semester and will continue until the end of the proceeding Fall semester.
 
 ## XIII) Officer Responsibilities and Duties
 
 ### President
 
-The president is ultimately responsible for the activities and actions of the the Pitt CSC.  He or she will work closely with the Project chairperson to come up with project ideas and with the Education chairperson to determine what lessons will be appropriate to present throughout the semester.  Additionally, the president is primarly responsible for running group meetings.
+The president is ultimately responsible for the activities and functions of the Pitt CSC.  He or she will work closely with the Project chairperson to come up with project ideas and with the Education chairperson to determine what lessons will be appropriate to present throughout the semester.  Additionally, the president is primarily responsible for running group meetings.
 
 ### Vice President
 
@@ -94,7 +94,7 @@ The vice president acts as the correspondant between the committee chairpeople a
 
 ### Business Manager
 
-The business manager is responsible for keeping track of group attendance and contact information, as well as making sure that all active club members are part of the Github organization.  Additionally, the business manager will act as liaison to the Computer Science department.
+The business manager is responsible for tracking group attendance and contact information, as well as making sure that all active club members are part of the GitHub organization.  Additionally, the business manager will act as liaison to the Computer Science department.
 
 ### Education Chairperson
 
@@ -110,7 +110,7 @@ Responsibilities defined in the "Committees" section.
 
 ## XIV) Election of Officers
 
-Elections will be held at the Fall semester to determine the officers for the proceeding cycle.
+Elections will be held in the Fall semester to determine the officers for the proceeding term.
 
 ## XV) Voting Powers of Officers
 
@@ -122,7 +122,7 @@ If the board decides that a particular officer is not fulfilling their duties as
 
 ## XVII) Vacancies
 
-Vacancies will be filled by appointment of the board.  The replacement will hold the position until the next voting cycle takes place.  Each position **must** be filled, although an officer is able to hold multiple positions if that is deemed the appropriate course of action by the board.
+Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, although an officer is able to hold multiple positions if that is deemed the appropriate course of action by the board.
 
 ## XVIII) Committees
 
@@ -136,17 +136,17 @@ The education committee may consist of only the chairperson, if that is deemed a
 
 ### Project
 
-The project committee is responsible for the projects that the larger group will complete over the course of the semester.  They will come up with possible project ideas for the proceeding semester, as well has help to organize the larger body of the organization into groups to complete those projets.  The project committee is headed by the project chairperson, who reports directly to the vice president.
+The project committee is responsible for the projects that the larger group will complete over the course of the semester.  They will come up with possible project ideas for the proceeding semester, and help to organize the larger body of the organization into groups to complete those projects.  The project committee is headed by the project chairperson, who reports directly to the vice president.
 
-The project chairperson is responsible for working with the president to come up with project ideas for groups to complete during the course of the semester.  They are also responsible for helping to organize the larger body of students into these smaller work teams, as well as getting the teams set up on Github.  In addition, they are to make themself available to project leaders that are having trouble organizing their groups, and act as the liaison between project leaders and the rest of the officers.
+The project chairperson is responsible for working with the president to come up with project ideas for groups to complete during the course of the semester.  They are also responsible for helping to organize the larger body of students into these smaller work teams, as well as getting the teams set up on GitHub.  In addition, they are to make themselves available to project leaders that are having trouble organizing their groups, and act as the liaison between project leaders and the rest of the officers.
 
-The project committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elect through the regular officer election process.
+The project committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
 
 ### Networking
 
-The networking committee is responsible for coming up with ideas of activities that the club can do together, as well as finding people in the community that we can bring into club meetings to networking with and learn from.  They are headed by the networking chairperson, who reports directly to the vice president.
+The networking committee is responsible for coming up with ideas for activities that the club can do together, and finding people in the community that we can bring into club meetings to networking with and learn from.  They are headed by the networking chairperson, who reports directly to the vice president.
 
-The networking chairperson is responsible for managing any relations with entities outside of the Univesity of Pittsburgh, such as companies that we are partnering with to provide lessons and activities to group members.  They are also responsible for any activities that are planned throughout the semester to provide a social setting for club members to meet and interact with each other.  In addition, they are responsible for seeking out local entrepreneurs and computer scientists that are willing to come to group meetings to talk about their jobs and experiences.  The networking manager will also be responsible for managing the standard set of questions that we provide visiting presenters to work off of.
+The networking chairperson is responsible for managing any relations with entities outside of the University of Pittsburgh, such as companies that we are partnering with to provide lessons and activities to group members.  They are also responsible for any activities that are planned throughout the semester to provide a social setting for club members to meet and interact with each other.  In addition, they are responsible for seeking out local entrepreneurs and computer scientists that are willing to come to group meetings to talk about their jobs and experiences.  The networking manager will also be responsible for managing the standard set of questions that we provide visiting presenters for reference.
 
 The networking committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
 
