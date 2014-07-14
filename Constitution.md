@@ -30,11 +30,11 @@ The purpose of the Pitt Computer Science Club are threefold, and outlined as suc
 
 ### Networking
 
-One of the main goals of the Pitt Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so we will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh, with the hope of helping students realize good future careers and even connect with potential employers.
+One of the main goals of the Pitt Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so the club will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh, with the hope of helping students realize good future careers and even connect with potential employers.
 
 ### Education
 
-One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace.  We hope to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through biweekly presentations, created and performed by students, which will give attendees a basic level of knowledge in the presentation subject.  Each of these presentations will be recorded or in some way be made available to all members of the club as references for future learning.
+One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace.  The Pitt CSC hopes to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through biweekly presentations, created and performed by students, which will give attendees a basic level of knowledge in the presentation subject.  Each of these presentations will be recorded or in some way be made available to all members of the club as references for future learning.
 
 ### Experience
 
@@ -144,9 +144,9 @@ The project committee may consist of only the chairperson, if that is deemed app
 
 ### Networking
 
-The networking committee is responsible for coming up with ideas for activities that the club can do together, and finding people in the community that we can bring into club meetings to networking with and learn from.  They are headed by the networking chairperson, who reports directly to the vice president.
+The networking committee is responsible for coming up with ideas for activities that the club can do together, and finding people in the community that the club can bring into club meetings to networking with and learn from.  They are headed by the networking chairperson, who reports directly to the vice president.
 
-The networking chairperson is responsible for managing any relations with entities outside of the University of Pittsburgh, such as companies that we are partnering with to provide lessons and activities to group members.  They are also responsible for any activities that are planned throughout the semester to provide a social setting for club members to meet and interact with each other.  In addition, they are responsible for seeking out local entrepreneurs and computer scientists that are willing to come to group meetings to talk about their jobs and experiences.  The networking manager will also be responsible for managing the standard set of questions that we provide visiting presenters for reference.
+The networking chairperson is responsible for managing any relations with entities outside of the University of Pittsburgh, such as companies that the club are partnering with to provide lessons and activities to group members.  They are also responsible for any activities that are planned throughout the semester to provide a social setting for club members to meet and interact with each other.  In addition, they are responsible for seeking out local entrepreneurs and computer scientists that are willing to come to group meetings to talk about their jobs and experiences.  The networking manager will also be responsible for managing the standard set of questions that the club provides visiting presenters for reference.
 
 The networking committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
 
