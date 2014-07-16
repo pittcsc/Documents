@@ -156,7 +156,7 @@ Meetings will be held once a week in order to provide time for networking and gr
 
 ## XX) Finances
 
-Group funds will only be spent to provide enhancement to the education of the club members, including but not limited to helping to offset the costs of attending hackathons and providing refreshments during special events.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from SGB.
+Group funds will be spent to provide enhancement club, including but not limited to helping to offset the costs of attending hackathons, providing refreshments during events, and paying for software subscriptions.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from SGB.
 
 ## XXI) Publications Code
 
