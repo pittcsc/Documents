@@ -110,7 +110,7 @@ Responsibilities defined in the "Committees" section.
 
 ## XIV) Election of Officers
 
-Elections will be held in the Fall semester to determine the officers for the proceeding term.
+Elections will be held in each Spring semester to determine the officers for the proceeding Fall and Spring terms.
 
 ## XV) Voting Powers of Officers
 
