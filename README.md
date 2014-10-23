@@ -1,5 +1,3 @@
-Documents
-============
-[![Gitter chat](https://badges.gitter.im/Pitt-CSC/Documents.png)](https://gitter.im/Pitt-CSC/Documents)
+# Documents
 
-Our club's important documents, made available online for collaboration
+Our club's governing documents, made available online for collaboration.
