@@ -158,6 +158,8 @@ Meetings will be held once a week in order to provide time for networking and gr
 
 Group funds will be spent to provide enhancement club, including but not limited to helping to offset the costs of attending hackathons, providing refreshments during events, and paying for software subscriptions.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from SGB.
 
+The Pitt CSC shall fully comply with the University fundraising policies and procedures for certified student organizations.
+
 ## XXI) Publications Code
 
 In compliance with the Publications Code for Student Organizations, all the publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain for expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process or the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a certified student organization at the University of Pittsburgh.
@@ -179,3 +181,5 @@ The Pitt CSC has no additional by-laws.
 ## XXV) Amendments
 
 Amendments to this Constitution will be presented by a board member for a vote. For approval, an amendment must receive a simple majority vote of approval from the board and a two-thirds vote of approval from the body of active student members.
+
+All constitution additions, revisions and deletions must be reported to the SORC.
