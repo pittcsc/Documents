@@ -1,4 +1,4 @@
-version: v1.0
+version: v1.1
 -------------
 This code of conduct outlines our expectations for participants within the **Pitt Computer Science Club** community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
@@ -38,6 +38,9 @@ Our open source community prioritizes marginalized people’s safety over privil
 - Refusal to explain or debate social justice concepts
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
+## Advertisements
+
+Advertisements are **not** to be posted in the Pitt Computer Science Slack without prior officer approval. Advertisements may be deleted at the discretion of the Pitt Computer Science Club officers.
 
 ### Diversity Statement
 
