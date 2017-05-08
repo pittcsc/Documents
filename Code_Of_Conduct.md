@@ -1,5 +1,4 @@
 version: v1.1
-
 -------------
 This code of conduct outlines our expectations for participants within the **Pitt Computer Science Club** community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
@@ -31,7 +30,6 @@ Harassment includes, but is not limited to:
 - Continued one-on-one communication after requests to cease
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
 - Publication of non-harassing private communication
-- Inapproperate or offensive usernames, including but not limited to content that is deemed sexual, explitic, derrogatory, or harassing.   
 
 Our open source community prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
 
