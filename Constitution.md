@@ -1,214 +1,185 @@
-version 2.0
----
+# Pitt CSC Constitution
 
-# Computer Science Club Constitution
+## I) Name of Organization
 
-## Contents
-<ul>
+University of Pittsburgh Computer Science Club, AKA:
 
-[I) Name of Organization](#i)
-<br>
-[II) Acceptance and Compliance to Registration Requirements and Limitations](#ii)
-<br>
-[III) Limits of Registration](#ii)
-<br>
-[IV) Annual Re-registration](#iv)
-<br>
-[V) Purpose](#v)
-<br>
-[VI) Activities](#vi)
-<br>
-[VII) Membership Requirements](#vii)
-<br>
-[VIII) Membership Procedures](#viii)
-<br>
-[IX) Voting Privileges](#ix)
-<br>
-[X) Associate Membership](#x)
-<br>
-[XI) Officers](#xi)
-<br>
-[XII) Terms of Office](#xii)
-<br>
-[XIII) Officer Responsibilities and Duties](#xii)
-<br>
-[XIV) Election of Officers](#xiv)
-<br>
-[XV) Voting Powers of Officers](#xv)
-<br>
-[XVI) Removal of Officers](#xvi)
-<br>
-[XVII) Vacancies](#xvii)
-<br>
-[XVIII) Committees](#xviii)
-<br>
-[XIX) Meetings](#xix)
-<br>
-[XX) Finances](#xx)
-<br>
-[XXI) Publications Code](#xxi)
-<br>
-[XXII) Adviser](#xxii)
-<br>
-[XXIII) External Affiliations](#xxiii)
-<br>
-[XXIV) Bylaws](#xxiv)
-<br>
-[XXV) Amendments](#xxv)
-</ul>
+- Pitt Computer Science Club
+- Pitt CS Club
+- Pitt CSC
 
-## <a name="i"></a>I) Name of Organization
+## II) Acceptance and Compliance to Certification Requirements and Limitations
 
-Computer Science Club, also known as:
-* CS Club
-* CSC
+The Pitt CSC and its membership accept and will fully comply with the requirements and limitations of certification.
 
-## <a name="ii"></a>II) Acceptance and Compliance to Registration Requirements and Limitations
+## III) Limits of Certification
 
-The Computer Science Club and its membership accept and will fully comply with the requirements and limitations of registration.
+The organization and members accept and will comply with the following limits of certification: Certified student organizations are student associations and are not official components of the University. Certification does not permit a student organization to use or act in the name of the University, to represent the University, engage in any contractual obligation in the name of the University nor represent the organization as being an official part of the University. While certified student organizations are permitted to have external affiliations, may be part of an incorporated external organization or may be individually incorporated. Certification expressly permits certified student organizations to only operate on campus. Off campus activities of certified student organizations are the sole responsibility of the organization, officers and members, unless expressly approved in advance by the University. Membership in a certified student organization and participation in its activities are voluntary and all risks of personal injury, property damage or other losses incidental to membership or participation in activities are assumed solely by the student organization and/or individual member(s) or participant(s).
 
-## <a name="iii"></a>III) Limits of Registration
+## IV) Annual Recertification
 
-Registered student organizations are student associations and are not official components of the University.  Registration does not permit a student organization to use or act in the name of the University, to represent the University, engage in any contractual obligation in the name of the University nor represent the organization as being an official part of the University.  Registered student organizations are permitted to have approved external affiliations.  Registration expressly permits registered student organizations to only operate on campus.  Off-campus activities of registered student organizations are the sole responsibility of the organization, officers and members, unless expressly approved in advance by the University.  Membership in a registered student organization and participation in its activities are voluntary and all risks of personal injury, property damage or other losses incidental to membership or participation in activities are assumed solely by the student organization and/or individual member(s) or participant(s).
+The organization will submit its annual recertification application to the SORC within one week after the election of new officers.
 
-## <a name="iv"></a>IV) Annual Re-registration
+## V) Purpose
 
-The Computer Science Club will submit its annual re-registration application during the re-registration period following the election of new officers.
+The Pitt CSC has been created as an extracurricular resource for Computer Science students and students of other majors interested in Computer Science. It is intended to provide supplemental education, opportunities for professional networking, and experience with non-scholastic projects. The goal of the Pitt CSC is to empower University of Pittsburgh students with the confidence and the agency to succeed during their time as students, as well as beyond graduation.
 
-The re-registration period is defined as being the week after the election of new officers.
+## VI) Activities
 
-## <a name="v"></a>V) Purpose
-
-The Computer Science Club has been created as an extracurricular resource for Computer Science students and students of other majors interested in Computer Science. It is intended to provide supplemental education, opportunities for professional networking, and experience with non-scholastic projects. The goal of the Pitt CSC is to empower University of Pittsburgh students with the confidence and the agency to succeed during their time as students, as well as beyond graduation.
-
-## <a name="vi"></a>VI) Activities
-
-### Education
-
-One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace. The Computer Science Club hopes to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through weekly presentations, created and performed by students, professors, and industry spokespeople, which will give attendees at least a basic level of knowledge on the presentation subject. Each of these presentations will be recorded or in some way be made available to all members of the club as references for future learning.  In addition, off-schedule workshops and company tours will be scheduled to allow students to learn more about technology around Pittsburgh.
+The purpose of the Pitt Computer Science Club are threefold, and outlined as such:
 
 ### Networking
 
-One of the main goals of the Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so the club will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh and across the country through alumni and company connections, with the hope of helping students discover ideal future careers and even connect with potential employers.
+One of the main goals of the Pitt Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so the club will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh, with the hope of helping students realize good future careers and even connect with potential employers.
+
+### Education
+
+One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace.  The Pitt CSC hopes to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through biweekly presentations, created and performed by students, which will give attendees a basic level of knowledge in the presentation subject.  Each of these presentations will be recorded or in some way be made available to all members of the club as references for future learning.
 
 ### Experience
 
-Lastly, practical experience is hard to come by, unless you have a focused way of achieving it. The Computer Science Club hopes to offer these opportunities to students through a couple of semester or year long projects, which club members will partake in based on their individual areas of interest and levels of experience.  Beginner students will collaborate with knowledgable ones, working together to build an open source project that will always be available to them as a testament to their skills and abilities; this not only provides them with valuable skills, but shows potential employers and friends they have a specific skillset.  In addition, the projects will stay under the ownership of the club, meaning that all of the code will remain to guide future learning.
+Lastly, practical experience is hard to come by, unless you have a focused way of achieving it.  The Pitt CS Club hopes to offer these opportunities to students through a series of semester-long projects, which club members will partake in based on their individual areas of interest and levels of experience.  Beginner students will collaborate with knowledgable ones, working together to build an open source project that will always be available to them as a testament to their skills and abilities.  In addition, the projects will stay under the ownership of the club, meaning that all of the code will remain to guide future learning.
 
-## <a name="vii"></a>VII) Membership Requirements
+## VII) Membership Requirements
 
 1. Membership is open to currently enrolled Pitt students as defined herein.
-2. All members must accept and comply with all of the requirements and limitations of registration as a condition of membership.
-3. Membership in the Computer Science Club is voluntary and all risk of personal injury, property damage or other losses that occur incidental to membership or participation in activities are assumed solely by the student organization and/or individual member(s) or non-member participant(s).  Accordingly, the University of Pittsburgh, its officers and agents shall not be responsible nor liable for any claims or causes of action for damage or loss of property or personal injury of any kind or nature which may arise out of or are incidental to the conduct of any organization’s activities or that of any individual’s participation in any group-related activity.  it is further understood and agreed that it is the responsibility of the officers of the organization to assure that all of the organization’s members and non-member participants in all activities sponsored by the Computer Science Club are fully informed and advised of this ASSUMPTION OF RISK, and in the event any individual member or participant should express or indicate non-acceptance, the organization’s officers shall forbid participation and/or membership of such individual.  In regard to the organization member or non-member participant Assumption of Risk, the Computer Science Club acknowledges that the University recommends that the organization members and non-member participants make every effort to arrange for the acquisition of liability insurance sufficient to protect all participants against those risks being assumed.  For sport-related organizations, the University recommends that each individual have insurance sufficient to allow for any risks by participation, accident or by deficiencies in physical health.
-4. No hazing or illegal discriminatory criteria for membership, including those listed in the University of Pittsburgh’s non-discrimination policy, will be used as a condition for membership in the organization.  These factors include race, color, religion (except for religious organizations which may restrict membership to those who share their faith-based beliefs), national origin, ancestry, sex (except same sex organizations permitted under Title IX), age, marital status, familial status, sexual orientation, gender identity and expression, genetic information, disability or status as a veteran.  This non-discriminatory policy will be applied in a manner consistent with the requirements of the First Amendment of the United States Constitution and other laws applicable to student organizations.
-5. There are no additional limitations for membership.
+2. All members must accept and comply with all of the requirements and limitations of certification as a condition of membership.
+3. Membership in the Pitt CS Club is voluntary and all risk of personal injury, property damage or other losses that occur incidental to membership or participation in activities are assumed solely by the student organization and/or individual member(s) or non-member participant(s). Accordingly, the University of Pittsburgh, its officers and agents shall not be responsible nor liable for any claims or causes of action for damage or loss of property or personal injury of any kind or nature which may arise out of or are incidental to the conduct of any organization's activities or that of any individual's participation in any group-related activity. It is further understood and agreed that it is the responsibility of the officers of the organization to assure that all of the organization's members and non-member participants in all activities sponsored by the Pitt CSC are fully informed and advised of this ASSUMPTION OF RISK, and in the event any individual member or participant should express or indicate non-acceptance, the organization's officer shall forbid participation and/or membership of such individual. In regard to the organization member and non-member participant Assumption of Risk, the Pitt CSC acknowledges that the University recommends that the organization members and non-member participants make every effort to arrange for the acquisition of liability insurance sufficient to protect all participants against those risks being assumed. For sport-related organizations the University recommends that each individual have insurance sufficient to allow for any risks by participation, accident or by deficiencies in physical health.
+4. No hazing or illegal discriminatory criteria for membership, including those listed in the University of Pittsburgh's non-discrimination policy, will be used as a condition of membership in the organization. These
+factors include race, color, religion, national origin, ancestry, sex, age, marital status, familial status, sexual
+orientation, gender identity and expression, genetic information, disability or status as a veteran.
+5. Membership is not limited to students majoring in Computer Science.
 6. There are no financial requirements for membership.
 
-## <a name="viii"></a>VIII) Membership Procedures
+## VIII) Membership Procedures
 
-1. **Recruitment**:Recruitment for the Computer Science Club will occur throughout the year, though primarily at the beginning of the Spring and Fall semesters.
-2. **Application and Selection**: As an optional co-curricular club, the Computer Science Club will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in group activities.  Regular participation is defined as making a commitment to contribute to group activities when they have the time and making oneself available to come to meetings every week.
-4. **Membership Privileges**: Members have voting privileges and may take advantage of all club events and resources.
-5. **Inactive Members**: Members who do not attend at least two regular meetings or do not contribute to club activites during a semester will be considered inactive and removed from the club roster.
-6. **Reinstatement**: Members can be reinstated by attending at least two regular meetings or contributing to club activites.
+1. Recruitment: Recruitment for the Pitt CSC will occur throughout the year, though primarily at the beginning of the Spring and Fall semesters.
+2. Application and Selection: As an optional cocurricular club, the Pitt CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in group activities.  Regular participation is defined as making a commitment to contribute to group projects on a weekly basis and making oneself available to come to meetings every week.
+3. Inactive members: Members of the Pitt CSC who fail to attend to contribute to club activities within a period of an academic year will be presumed inactive and removed from the club roster.  Students that are inactive for a semester will not be placed on a project team for the following semester.
+4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to club activities within a semester of doing so.
 
-## <a name="ix"></a>IX) Voting Privileges
+## IX) Voting Privileges
 
-Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must be considered active.
+Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must have attended or contributed to a club activity within two weeks of the vote and have been an active project team member for the duration of the semester.
 
-## <a name="x"></a>X) Associate Membership
+## X) Associate Membership
 
-Associate membership is comprised of students from neighboring universities and graduates that are interested in participating in the club's activities.
-Associate members may not vote, hold office nor serve in a formal leadership role.  They may participate in organization meetings and activities.  Pitt student membership shall comprise of at least 75% of the total membership at all times.
+1. Policies regarding Associate Membership will follow the procedures laid out in Section VIII. Associate members may not vote, hold office nor serve in a formal leadership role. They may participate in organization meetings and activities. Pitt student membership shall comprise of at least 75% of the total membership at all times.
+2. Associate membership is comprised of students from neighboring universities and graduates that are interested in participating in the club's activities.  They will not be actively recruited, but are welcome to attend and participate in club affairs if interested.
 
-## <a name="xi"></a>XI) Officers
+## XI) Officers
 
 The organization shall have the following officers:
+
 1. President
 2. Vice President
 3. Business Manager
-4. Events Coordinator
+4. Education Chairperson
+5. Project Chairperson
+6. Networking Chairperson
 
-## <a name="xii"></a>XII) Terms of Office
+## XII) Terms of Office
 
-Officers will begin their terms at the end of the Spring semester and continue until the end of the subseqent Spring semester.
+Officers will begin their terms in the Spring semester and will continue until the end of the proceeding Fall semester.
 
-## <a name="xiii"></a>XIII) Officer Responsibilities and Duties
+## XIII) Officer Responsibilities and Duties
 
 ### President
 
-The President is ultimately responsible for the activities and functions of the CSC. He or she serves as the representative of the club to other entities. Additionally, the President is primarily responsible for running group meetings.
+The president is ultimately responsible for the activities and functions of the Pitt CSC.  He or she will work closely with the Project chairperson to come up with project ideas and with the Education chairperson to determine what lessons will be appropriate to present throughout the semester.  Additionally, the president is primarily responsible for running group meetings.
 
 ### Vice President
 
-The Vice President is primarily responsible for securing speakers to give talks at the weekly meetings. The Vice President should maintain a running schedule throughout the year and continually build and maintain relationships with outside organizations and individuals.
+The vice president acts as the correspondant between the committee chairpeople and the president, and should be a part of any and all major decisions made by the chairpeople before bringing the matter to the attention of the president.  In addition, the vice president will help to run group meetings.
 
 ### Business Manager
 
-The business manager is responsible for processing reimbursements and keeping a detailed budget as well as representing the club before the University and outside organizations in the request of funding, sponsorship, or any form of monetary allocation. Additionally, the business manager will take care of all room rentals for both regular meetings and events.
+The business manager is responsible for tracking group attendance and contact information, as well as making sure that all active club members are part of the GitHub organization.  Additionally, the business manager will act as liaison to the Computer Science department.
 
-### Events Coordinator
+### Education Chairperson
 
-The Events Coodinator is responsible for planning, running, and advertising non-regular club events. He or she should coordinate with relevant organizations during the planning process such as for joint events. Additionally, the Events Coordinator should maintain the club's social media presence.
+Responsibilities defined in the "Committees" section.
 
-## <a name="xiv"></a>XIV) Election of Officers
+### Project Chairperson
 
-Elections occur once a year at the end of each Spring semester.
-1. **Nomination Procedure**: There is no nomination procedure. Intended candidates must notify the incumbent President of their intent to run.
-2. **Eligibility Requirements**: Any active member is eligible to run for any officer position.
-3. **Election Process**: Votes will be cast during a specified voting meeting. The incumbent business manager will coordinate the collecting and counting of votes and the announcement of new officers.
-4. **Eligibility Requirements for Voting**: Any active member is eligible to vote.
-5. **Voting Required to Elect an Officer**: The officer elected is determined by a simple majority of votes cast.
-6. **Multiple Positions**: An officer cannot hold more than one position
-7. **Absentee Ballots**: Absentee ballots will be accepted at the discretion of the incumbent officers.
-8. **Contests**: At the request of a contesting member, election results shall be recounted by  the incumbent business manager.
+Responsibilities defined in the "Committees" section.
 
-## <a name="xv"></a>XV) Voting Powers of Officers
+### Networking Chairperson
 
-All officers and  retain voting rights. In the event of a tie, the President shall break the tie.
+Responsibilities defined in the "Committees" section.
 
-## <a name="xvi"></a>XVI)Removal of Officers
+## XIV) Election of Officers
+
+Elections will be held in each Spring semester to determine the officers for the proceeding Fall and Spring terms.
+
+## XV) Voting Powers of Officers
+
+The Vice President and Business Manager, as well as committee chairpeople, retain voting rights.  In the event of a tie, the President will break the tie.
+
+## XVI) Removal of Officers
 
 If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote.
 
-## <a name="xvii"></a>XVII) Vacancies
+## XVII) Vacancies
 
-Vacancies shall be filled by holding another election. In the event that another election cannot be held, the officers may appoint a new officer to that position by a majority vote. If this is the case, the appointed officer may be an officer that already holds another position. The new officer will finish out the term, and elections will be held as usual at the end of the spring term.
+Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, although an officer is able to hold multiple positions if that is deemed the appropriate course of action by the board.
 
-## <a name="xviii"></a>XVIII) Committees
+## XVIII) Committees
 
-The Computer Science Club has no committees.
+### Education
 
-## <a name="xix"></a>XIX) Meetings
+The education committee is responsible for the lessons created for the club.  They will work together to come up with lesson ideas, as well as to flesh out those ideas into full lessons and present them to the rest of the group.  The education committee is headed by the education chairperson, who reports directly to the vice president.
 
-Regular meetings are held once a week. All interested persons are able to attend. To officially conduct and approve the business of the organization, at least one quarter of the members must be present. Special meetings can be called by any officer, granted members are given at least 5 days notice. The president will take on the responsibilities of the Chairperson, and will be responsible for running group meetings.
+The education chairperson is responsible for working with the president to come up with lesson ideas, as well as finding people to present them.  They are **not** responsible for writing all of the lessons themselves, but are responsible for finding students that want to present and assisting them in any way possible in creating the presentations.  Additionally, the education chairperson should review each presentation thoroughly before it is given to the group, and is responsible for recording the presentation for future reference.
 
-## <a name="xx"></a>XX) Finances
+The education committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
 
-Group funds will be spent to provide club enhancements, including but not limited to helping to offset the costs of attending hackathons, providing refreshments/food during events, and paying for software subscriptions. All expenses must be approved by the Business Manager and President.
+### Project
 
-The Computer Science Club shall fully comply with the University fundraising policies and procedures for registered student organizations.
+The project committee is responsible for the projects that the larger group will complete over the course of the semester.  They will come up with possible project ideas for the proceeding semester, and help to organize the larger body of the organization into groups to complete those projects.  The project committee is headed by the project chairperson, who reports directly to the vice president.
 
-The organization will not maintain an outside bank account if it receives funding from Student Government Board.
+The project chairperson is responsible for working with the president to come up with project ideas for groups to complete during the course of the semester.  They are also responsible for helping to organize the larger body of students into these smaller work teams, as well as getting the teams set up on GitHub.  In addition, they are to make themselves available to project leaders that are having trouble organizing their groups, and act as the liaison between project leaders and the rest of the officers.
 
-## <a name="xxi"></a>XXI) Publications Code
+The project committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
 
-In compliance with the Publications Code for Student Organizations, all publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain from expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process of the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a registered student organization at the University of Pittsburgh.
+### Networking
 
-## <a name="xxii"></a>XXII) Adviser
+The networking committee is responsible for coming up with ideas for activities that the club can do together, and finding people in the community that the club can bring into club meetings to networking with and learn from.  They are headed by the networking chairperson, who reports directly to the vice president.
 
-The group advisor shall be selected by the board by a simple majority vote. In the event of the need arising to remove an advisor, a simple majority must approve the decision.
+The networking chairperson is responsible for managing any relations with entities outside of the University of Pittsburgh, such as companies that the club are partnering with to provide lessons and activities to group members.  They are also responsible for any activities that are planned throughout the semester to provide a social setting for club members to meet and interact with each other.  In addition, they are responsible for seeking out local entrepreneurs and computer scientists that are willing to come to group meetings to talk about their jobs and experiences.  The networking manager will also be responsible for managing the standard set of questions that the club provides visiting presenters for reference.
 
-The advisor is not required to provide any particular services to the Computer Science Club, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
+The networking committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
 
-## <a name="xxiii"></a>XXIII) External Affiliations
+## XIX) Meetings
 
-The Computer Science Club is not affiliated with any external organizations.
+Meetings will be held once a week in order to provide time for networking and group project work.  Additionally, there will be biweekly presentations given about topics that are relevant to the education to the members of the group.  At least one quarter of the group must be present to officially conduct the business of the club.  Special meetings can be called by the President or Vice President, given that the body of the club is given at least 5 days notice of the change.  The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for computer science students, and discussing current events in the technological community.
 
-## <a name="xxiv"></a>XXIV) Bylaws
+## XX) Finances
 
-The Computer Science Club has no additional by-laws.
+Group funds will be spent to provide enhancement club, including but not limited to helping to offset the costs of attending hackathons, providing refreshments during events, and paying for software subscriptions.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from SGB.
 
-## <a name="xxv"></a>XXV) Amendments
+The Pitt CSC shall fully comply with the University fundraising policies and procedures for certified student organizations.
+
+## XXI) Publications Code
+
+In compliance with the Publications Code for Student Organizations, all the publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain for expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process or the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a certified student organization at the University of Pittsburgh.
+
+## XXII) Advisor
+
+The group advisor shall be selected by the board, including the committee chairpeople, by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
+
+The advisor is not required to provide any particular services to the Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
+
+## XXIII) External Affiliations
+
+The Pitt CSC is not affiliated with any external organizations.
+
+## XXIV) By-Laws
+
+The Pitt CSC has no additional by-laws.
+
+## XXV) Amendments
+
+Amendments to this Constitution will be presented by a board member for a vote. For approval, an amendment must receive a simple majority vote of approval from the board and a two-thirds vote of approval from the body of active student members.
 
 All constitution additions, revisions and deletions must be reported to the SORC.
