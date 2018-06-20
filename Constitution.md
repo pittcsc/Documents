@@ -22,7 +22,7 @@ The organization will submit its annual recertification application to the SORC 
 
 ## V) Purpose
 
-The Pitt CSC has been created as an extracurricular resource for Computer Science students and students of other majors interested in Computer Science. It is intended to provide supplemental education, opportunities for professional networking, and experience with non-scholastic projects. The goal of the Pitt CSC is to empower University of Pittsburgh students with the confidence and the agency to succeed during their time as students, as well as beyond graduation.
+Pitt CSC exists as tool to build a community of students interested in Computer Science, regardless of status as a declared CS major. It is intended to act as a catalyst with which members will develop professionally, engage with each other socially, and explore the field of Computer Science intellectually. The goal of Pitt CSC is to empower University of Pittsburgh students with the confidence and the agency to succeed during their time as students, as well as beyond graduation.
 
 ## VI) Activities
 
