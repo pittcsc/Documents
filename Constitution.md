@@ -114,7 +114,14 @@ Elections will be held in each Spring semester to determine the officers for the
 
 Each officer of the Pitt CSC also retains membership on the Pitt CSC Executive Board. Each member of the board must act as a representative of the Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of the Pitt CSC, and are responsible for assisting officers in the fulfillment of their individual roles/
 
+### Initiatives
+An initiative is defined to be an aspiration for the club that is not already considered a "core function". Each initiative should be be discussed with all of the officers and the Vice President usually oversees all initiatves. If an initiative becomes succesful, eventually it can evolve into a "core function" of the club.
+ 	 
+### Supervisors
+Each new initiative by the club is appointed a "supervisor", who takes the lead role in bringing forth that particular initiative. There can obviously be other officers or even club members that assist in these initiatives, but the supervisor is the leader who is responsible for the initaitve.
 
+### Core Functions
+Core functions of the club include scheduling/setting up meetings, finding sponsors, and creating new initiatives. Core functions are not controlled by one officer, but they can have one or two officers who manage that function and report to the rest of the officers periodically. 
 
 ## XVI) Removal of Officers
 
