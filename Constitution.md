@@ -85,21 +85,24 @@ Officers will begin their terms in the Spring semester and will continue until t
 
 ### President
 
-The president is ultimately responsible for the activities and functions of the Pitt CSC.  He or she will work closely with the Project chairperson to come up with project ideas and with the Education chairperson to determine what lessons will be appropriate to present throughout the semester.  Additionally, the president is primarily responsible for running group meetings.
+The President is the chief representative and leader of the Pitt CSC. The President will work to foster community and respect among Pitt CSC members, and coordinate with other members of the Executive Board in fulfillment of their roles.
+
 
 ### Vice President
 
-The vice president acts as the correspondant between the committee chairpeople and the president, and should be a part of any and all major decisions made by the chairpeople before bringing the matter to the attention of the president.  In addition, the vice president will help to run group meetings.
+The Vice President is responsible for executing Executive Board initiatives to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles.
 
 ### Business Manager
 
-The business manager is responsible for tracking group attendance and contact information, as well as making sure that all active club members are part of the GitHub organization.  Additionally, the business manager will act as liaison to the Computer Science department.
+The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center. He or she will work to acquire sponsors for Pitt CSC, maintain records of attendance, etc.
 
 ### Event Coordinator
 
-
+The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, etc.
 
 ### Outreach Coordinator
+
+The Outreach Coordinator is repsonsible for representing Pitt CSC to outside organizations. He or she will coordinate with organizations on behalf of Pitt CSC with regards to planning events, seeking sponsorships and community partnerships, etc.
 
 
 ## XIV) Election of Officers
