@@ -168,6 +168,6 @@ The Pitt CSC has no additional by-laws.
 
 ## XXV) Amendments
 
-Amendments to this Constitution will be presented by a board member for a vote. For approval, an amendment must receive a simple majority vote of approval from the board and a two-thirds vote of approval from the body of active student members.
+Amendments to this Constitution will be presented by an officer for a vote. For approval, an amendment must receive a two-thirds majority vote of approval from the board.
 
 All constitution additions, revisions and deletions must be reported to the SORC.
