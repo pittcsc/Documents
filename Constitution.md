@@ -96,17 +96,12 @@ The vice president acts as the correspondant between the committee chairpeople a
 
 The business manager is responsible for tracking group attendance and contact information, as well as making sure that all active club members are part of the GitHub organization.  Additionally, the business manager will act as liaison to the Computer Science department.
 
-### Education Chairperson
+### Event Coordinator
 
-Responsibilities defined in the "Committees" section.
 
-### Project Chairperson
 
-Responsibilities defined in the "Committees" section.
+### Outreach Coordinator
 
-### Networking Chairperson
-
-Responsibilities defined in the "Committees" section.
 
 ## XIV) Election of Officers
 
@@ -123,33 +118,6 @@ If the board decides that a particular officer is not fulfilling their duties as
 ## XVII) Vacancies
 
 Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, although an officer is able to hold multiple positions if that is deemed the appropriate course of action by the board.
-
-## XVIII) Committees
-
-### Education
-
-The education committee is responsible for the lessons created for the club.  They will work together to come up with lesson ideas, as well as to flesh out those ideas into full lessons and present them to the rest of the group.  The education committee is headed by the education chairperson, who reports directly to the vice president.
-
-The education chairperson is responsible for working with the president to come up with lesson ideas, as well as finding people to present them.  They are **not** responsible for writing all of the lessons themselves, but are responsible for finding students that want to present and assisting them in any way possible in creating the presentations.  Additionally, the education chairperson should review each presentation thoroughly before it is given to the group, and is responsible for recording the presentation for future reference.
-
-The education committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
-
-### Project
-
-The project committee is responsible for the projects that the larger group will complete over the course of the semester.  They will come up with possible project ideas for the proceeding semester, and help to organize the larger body of the organization into groups to complete those projects.  The project committee is headed by the project chairperson, who reports directly to the vice president.
-
-The project chairperson is responsible for working with the president to come up with project ideas for groups to complete during the course of the semester.  They are also responsible for helping to organize the larger body of students into these smaller work teams, as well as getting the teams set up on GitHub.  In addition, they are to make themselves available to project leaders that are having trouble organizing their groups, and act as the liaison between project leaders and the rest of the officers.
-
-The project committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
-
-### Networking
-
-The networking committee is responsible for coming up with ideas for activities that the club can do together, and finding people in the community that the club can bring into club meetings to networking with and learn from.  They are headed by the networking chairperson, who reports directly to the vice president.
-
-The networking chairperson is responsible for managing any relations with entities outside of the University of Pittsburgh, such as companies that the club are partnering with to provide lessons and activities to group members.  They are also responsible for any activities that are planned throughout the semester to provide a social setting for club members to meet and interact with each other.  In addition, they are responsible for seeking out local entrepreneurs and computer scientists that are willing to come to group meetings to talk about their jobs and experiences.  The networking manager will also be responsible for managing the standard set of questions that the club provides visiting presenters for reference.
-
-The networking committee may consist of only the chairperson, if that is deemed appropriate.  The chairperson will be elected through the regular officer election process.
-
 ## XIX) Meetings
 
 Meetings will be held once a week in order to provide time for networking and group project work.  Additionally, there will be biweekly presentations given about topics that are relevant to the education to the members of the group.  At least one quarter of the group must be present to officially conduct the business of the club.  Special meetings can be called by the President or Vice President, given that the body of the club is given at least 5 days notice of the change.  The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for computer science students, and discussing current events in the technological community.
