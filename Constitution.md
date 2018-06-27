@@ -74,9 +74,8 @@ The organization shall have the following officers:
 1. President
 2. Vice President
 3. Business Manager
-4. Education Chairperson
-5. Project Chairperson
-6. Networking Chairperson
+4. Event Coordinator
+5. Outreach Coordinator
 
 ## XII) Terms of Office
 
