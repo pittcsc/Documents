@@ -67,9 +67,9 @@ Voting privileges are limited to currently enrolled Pitt student members in good
 1. Policies regarding Associate Membership will follow the procedures laid out in Section VIII. Associate members may not vote, hold office nor serve in a formal leadership role. They may participate in organization meetings and activities. Pitt student membership shall comprise of at least 75% of the total membership at all times.
 2. Associate membership is comprised of students from neighboring universities and graduates that are interested in participating in the club's activities.  They will not be actively recruited, but are welcome to attend and participate in club affairs if interested.
 
-## XI) Officers
+## XI) Executive Board
 
-The organization shall have the following officers:
+The Pitt CSC leadership will comprise of the Executive Board whose membership will consist of the following roles:
 
 1. President
 2. Vice President
@@ -109,9 +109,11 @@ The Outreach Coordinator is repsonsible for representing Pitt CSC to outside org
 
 Elections will be held in each Spring semester to determine the officers for the proceeding Fall and Spring terms.
 
-## XV) Voting Powers of Officers
+## XV) Executive Board Powers
 
-The Vice President and Business Manager, as well as committee chairpeople, retain voting rights.  In the event of a tie, the President will break the tie.
+Each officer of the Pitt CSC also retains membership on the Pitt CSC Executive Board. Each member of the board must act as a representative of the Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of the Pitt CSC, and are responsible for assisting officers in the fulfillment of their individual roles/
+
+
 
 ## XVI) Removal of Officers
 
