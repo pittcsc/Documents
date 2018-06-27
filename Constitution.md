@@ -160,7 +160,7 @@ Pitt CSC Sponsors support Pitt CSC and its activities financially. Sponsors may 
 
 ### Community Partner
 
-Pitt CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. Pitt CSC recognizes Community Partners for continued aid in organizing cohosted programs, encouraging interactions between organization members, and...
+Pitt CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. Pitt CSC recognizes Community Partners for continued aid in organizing cohosted programs, encouraging interactions between organization members, and developing a strong community within Pitt CSC, the University of Pittsburgh, and City of Pittsburgh.
 
 ## XXIV) By-Laws
 
