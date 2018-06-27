@@ -50,6 +50,7 @@ factors include race, color, religion, national origin, ancestry, sex, age, mari
 orientation, gender identity and expression, genetic information, disability or status as a veteran.
 5. Membership is not limited to students majoring in Computer Science.
 6. There are no financial requirements for membership.
+7. Membership in Pitt CSC is conditional on active participation in the Pitt CSC community. This may be achieved through attendance at club meetings and events, communication on the club's Slack and social media, and working on club projects.
 
 ## VIII) Membership Procedures
 
