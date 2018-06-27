@@ -24,19 +24,19 @@ The organization will submit its annual recertification application to the SORC 
 
 Pitt CSC exists as tool to build a community of students interested in Computer Science, regardless of declared major. It is intended to act as a catalyst with which members will develop professionally, engage with each other socially, and explore the field of Computer Science intellectually.
 
-## VI) Activities
+## VI) Pillars
 
 The purpose of the Pitt Computer Science Club are threefold, and outlined as such:
 
-### Networking
+### Community
 
 One of the main goals of the Pitt Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so the club will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh, with the hope of helping students realize good future careers and even connect with potential employers.
 
-### Education
+### Skills
 
 One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace.  The Pitt CSC hopes to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through biweekly presentations, created and performed by students, which will give attendees a basic level of knowledge in the presentation subject.  Each of these presentations will be recorded or in some way be made available to all members of the club as references for future learning.
 
-### Experience
+### Craftsmanship
 
 Lastly, practical experience is hard to come by, unless you have a focused way of achieving it.  The Pitt CS Club hopes to offer these opportunities to students through a series of semester-long projects, which club members will partake in based on their individual areas of interest and levels of experience.  Beginner students will collaborate with knowledgable ones, working together to build an open source project that will always be available to them as a testament to their skills and abilities.  In addition, the projects will stay under the ownership of the club, meaning that all of the code will remain to guide future learning.
 
