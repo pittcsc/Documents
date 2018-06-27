@@ -152,7 +152,15 @@ The advisor is not required to provide any particular services to the Pitt CSC, 
 
 ## XXIII) External Affiliations
 
-The Pitt CSC is not affiliated with any external organizations.
+The Pitt CSC has two forms of external affiliation: Sponsors and Community Partners.
+
+### Sponsor
+
+Pitt CSC Sponsors support Pitt CSC and its activities financially. Sponsors may be invited to events and programs, networking opportunities, limited access to Pitt CSC data, and advertisement and exposure within the club.
+
+### Community Partner
+
+Pitt CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. Pitt CSC recognizes Community Partners for continued aid in organizing cohosted programs, encouraging interactions between organization members, and...
 
 ## XXIV) By-Laws
 
