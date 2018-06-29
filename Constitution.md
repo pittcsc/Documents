@@ -115,17 +115,20 @@ Elections will be held in each Spring semester to determine the officers for the
 Each officer of the Pitt CSC also retains membership on the Pitt CSC Executive Board. Each member of the board must act as a representative of the Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of the Pitt CSC, and are responsible for assisting officers in the fulfillment of their individual roles
 
 ## XVI) Initiatives
+
 An initiative is defined to be an aspiration for the club that is not already considered a "core function" of the club. Each initiative should be discussed with all of the officers and the Vice President typically overseeing all initiatives. If an initiative is deemed successful, the officers shall come together, making amendments to club documents as necessary, to allow the initiative to become a "core function" of the club. An initiative to be deemed successful comes from many factors such as duration, effectiveness, etc. and will be decided by the officers collectively when it is successful.
 
 ### Core Functions
+
 A core function is defined as an established feature of the club which is well defined and is backed by one or more officers. Some core functions of the club include but is not limited to planning events (such as talks, fields trips, etc.), finding sponsors, and connecting with the community, and connecting members together. 
 
 ### Supervisors
+
 Each new initiative by the club is appointed a "supervisor", who takes the lead role in bringing forth that particular initiative. There can obviously be other officers or even club members that assist in these initiatives, but the supervisor is the leader who is responsible for the initaitve.
 
 ## XVII) Removal of Officers
 
-If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote. However, a removal should only occur after all other methods of fixing the situation are exhausted. The optimal alternative to removing an officer is to be understand them.
+If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote.
 
 ## XVIII) Vacancies
 
@@ -135,23 +138,46 @@ Vacancies will be filled by appointment from the board.  The replacement will ho
 
 Meetings will be held once a week in order to provide time for networking and group project work.  Additionally, there will be biweekly presentations given about topics that are relevant to the education to the members of the group.  At least one quarter of the group must be present to officially conduct the business of the club.  Special meetings can be called by the President or Vice President, given that the body of the club is given at least 5 days notice of the change.  The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for computer science students, and discussing current events in the technological community.
 
-## XX) Finances
+## XX) Data
+
+In order for the officers to understand the state and effectiveness of the club and it's members we do collect certain pieces of information. All officers should be aware of what data we collect and should strive to keep the collection to a minium and keep the data private and protected in order to uphold the privacy of our members. 
+
+### What we collect?
+
+Our collection is limited to attendence of meetings, activity in our group chat (only the time when a message is sent but not the contents of that message), activity on our Github organization (including commits and the impact of those changes), or details about a member from setting up with our attendance system, surveys, check-in or sign-up sheets, events (such as resume review) and our newsletter. TODO: Videos?, Attendance, Instragram?
+
+### What is the data used for?
+
+The information is used to evaluate various things such as how effective a particular events is, how attendence changes over the time of a semester, etc. Activity of our members helps the officers figure whether an indivdual is a member of the club, how engage they are with a project, and in special cases which members should be given a high prority for certain events (such as field trips).
+
+### What data is given out?
+No data on a particular member, except for any information that a member has consented for the officers to give out, will be givin to sponsors. 
+
+The club gives out general statistics about 
+
+### Transparency
+
+
+### Issues
+Any issues with our policy on data should be brought up with any officers, 
+
+## XXI) Finances
 
 Group funds will be spent to provide enhancement club, including but not limited to helping to offset the costs of attending hackathons, providing refreshments during events, and paying for software subscriptions.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from SGB.
 
 The Pitt CSC shall fully comply with the University fundraising policies and procedures for certified student organizations.
 
-## XXI) Publications Code
+## XXII) Publications Code
 
 In compliance with the Publications Code for Student Organizations, all the publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain for expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process or the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a certified student organization at the University of Pittsburgh.
 
-## XXII) Advisor
+## XXIII) Advisor
 
 The group advisor shall be selected by the board, including the committee chairpeople, by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
 
 The advisor is not required to provide any particular services to the Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
 
-## XXIII) External Affiliations
+## XXIV) External Affiliations
 
 The Pitt CSC has two forms of external affiliation: Sponsors and Community Partners.
 
@@ -163,11 +189,11 @@ Pitt CSC Sponsors support Pitt CSC and its activities financially. Sponsors may 
 
 Pitt CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. Pitt CSC recognizes Community Partners for continued aid in organizing cohosted programs, encouraging interactions between organization members, and developing a strong community within Pitt CSC, the University of Pittsburgh, and City of Pittsburgh.
 
-## XXIV) By-Laws
+## XXV) By-Laws
 
 The Pitt CSC has no additional by-laws.
 
-## XXV) Amendments
+## XXVI) Amendments
 
 Amendments to this Constitution will be presented by an officer for a vote. For approval, an amendment must receive a two-thirds majority vote of approval from the board.
 
