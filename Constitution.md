@@ -115,21 +115,22 @@ Elections will be held in each Spring semester to determine the officers for the
 Each officer of the Pitt CSC also retains membership on the Pitt CSC Executive Board. Each member of the board must act as a representative of the Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of the Pitt CSC, and are responsible for assisting officers in the fulfillment of their individual roles
 
 ## XVI) Initiatives
-An initiative is defined to be an aspiration for the club that is not already considered a "core function" of the club. Each initiative should be be discussed with all of the officers and the Vice President typically overseeing all initiatves. If an initiative is deemed succesful, the officers shall come together, making amendments to club documents, to allow the initiave to become a "core function" of the club.
+An initiative is defined to be an aspiration for the club that is not already considered a "core function" of the club. Each initiative should be discussed with all of the officers and the Vice President typically overseeing all initiatives. If an initiative is deemed successful, the officers shall come together, making amendments to club documents as necessary, to allow the initiative to become a "core function" of the club. An initiative to be deemed successful comes from many factors such as duration, effectiveness, etc. and will be decided by the officers collectively when it is successful.
 
 ### Core Functions
-Core functions of the club include scheduling/setting up meetings, finding sponsors, and creating new initiatives. Core functions are not controlled by one officer, but they can have one or two officers who manage that function and report to the rest of the officers periodically. 
- 	 
+A core function is defined as an established feature of the club which is well defined and is backed by one or more officers. Some core functions of the club include but is not limited to planning events (such as talks, fields trips, etc.), finding sponsors, and connecting with the community, and connecting members together. 
+
 ### Supervisors
 Each new initiative by the club is appointed a "supervisor", who takes the lead role in bringing forth that particular initiative. There can obviously be other officers or even club members that assist in these initiatives, but the supervisor is the leader who is responsible for the initaitve.
 
-## XVI) Removal of Officers
+## XVII) Removal of Officers
 
 If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote.
 
-## XVII) Vacancies
+## XVIII) Vacancies
 
 Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, although an officer is able to hold multiple positions if that is deemed the appropriate course of action by the board.
+
 ## XIX) Meetings
 
 Meetings will be held once a week in order to provide time for networking and group project work.  Additionally, there will be biweekly presentations given about topics that are relevant to the education to the members of the group.  At least one quarter of the group must be present to officially conduct the business of the club.  Special meetings can be called by the President or Vice President, given that the body of the club is given at least 5 days notice of the change.  The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for computer science students, and discussing current events in the technological community.
