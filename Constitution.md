@@ -125,7 +125,7 @@ Each new initiative by the club is appointed a "supervisor", who takes the lead 
 
 ## XVII) Removal of Officers
 
-If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote.
+If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote. However, a removal should only occur after all other methods of fixing the situation are exhausted. The optimal alternative to removing an officer is to be understand them.
 
 ## XVIII) Vacancies
 
