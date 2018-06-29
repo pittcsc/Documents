@@ -140,27 +140,27 @@ Meetings will be held once a week in order to provide time for networking and gr
 
 ## XX) Data
 
-In order for the officers to understand the state and effectiveness of the club and it's members we do collect certain pieces of information. All officers should be aware of what data we collect and should strive to keep the collection to a minimum and keep the data private and protected in order to uphold the privacy of our members.
+In order for the officers to understand the state and effectiveness of the club and it's members, Pitt CSC does collect certain pieces of information. All officers should be aware of what data are collected and should strive to keep the collection to a minimum and keep the data private and protected in order to uphold the privacy of Pitt CSC members.
 
-### What we collect?
+### What is collected
 
-Our collection is limited to attendence of meetings, activity in our group chat (only the time when a message is sent but not the contents of that message), activity on our Github organization (including commits and the impact of those changes), or details about a member from setting up with our attendance system and use of said system, surveys, check-in or sign-up sheets, our newsletter, and from events.
+Data collection is limited to attendence of meetings, activity in the Pitt CSC group chat (only the time when a message is sent but not the contents of that message), activity on the Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with a Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, images and video for Pitt CSC social media, and from events.
 
-### What is the data used for?
+### What is the data used for
 
-The information is used to evaluate various things such as how effective a particular event is, how attendance changes over the time of a semester, etc. The activity of our members helps the officers figure whether an individual is a member of the club based on our definition in Section VII, to whom to provide incentives for being a member, and in special cases giving a higher priority for a member that have larger engagement with the club to attend limited seated events.
+The information is used to evaluate various things such as how effective a particular event is, how attendance changes over the time of a semester, etc. The activity of Pitt CSC members helps the officers figure whether an individual is a member of the club based on the definition in Section VII, to whom to provide incentives for being a member, and in special cases giving a higher priority for a member that have larger engagement with the club to attend limited seated events.
 
-### What data is given out?
+### What data is given out
 
 No data on a individual member, except for any information that a member has consented for the officers to give out, will be given to or any organization outside of Pitt CSC. The club only provides outside organizations with general statistics of the club (e.g. average attendance, demographic of members, etc.)
 
-### How transparent we are?
+### How transparent is Pitt CSC
 
-The club officers and the club will be direct to what we collect and the purpose behind collecting data. We will gladly reveal all general statistics we provide outside organizations. The club will not reveal an individual member's data, except to the individual directly. The tool we use to analyze and collect the data will be public with all it's source code publicly on our GitHub organization page.
+The Executive Board and the Pitt CSC will be direct to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provide outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. The tools used to analyze and collect the data will be public with all it's source code publicly on the Pitt CSC GitHub organization page.
 
 ### Issues
 
-Any issues with our policy on data should be brought up with any officers. Any future additions to what we collect should be discussed by the officers internally and with all the active members.
+Any issues with Pitt CSC policy on data should be brought up with any officers. Any member is free to appeal to the Executive Board to opt out of certain data collection. Any future additions to what is collected should be discussed by the officers internally and with all the active members.
 
 ## XXI) Finances
 
