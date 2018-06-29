@@ -148,7 +148,7 @@ Data collection is limited to attendence of meetings, activity in the Pitt CSC g
 
 ### What is the data used for
 
-The information is used to evaluate various things such as how effective a particular event is, how attendance changes over the time of a semester, etc. The activity of Pitt CSC members helps the officers figure whether an individual is a member of the club based on the definition in Section VII, to whom to provide incentives for being a member, and in special cases giving a higher priority for a member that have larger engagement with the club to attend limited seated events.
+The information is used to evaluate how effective a particular event is, how attendance changes over the time of a semester, etc. The activity of Pitt CSC members helps the officers figure whether an individual is a member of the club based on the definition in Section VII, to whom to provide incentives for being a member, and in special cases giving a higher priority for a member that have larger engagement with the club to attend limited seated events.
 
 ### What data is given out
 
@@ -156,7 +156,7 @@ No data on a individual member, except for any information that a member has con
 
 ### How transparent is Pitt CSC
 
-The Executive Board and the Pitt CSC will be direct to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provide outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. The tools used to analyze and collect the data will be public with all it's source code publicly on the Pitt CSC GitHub organization page.
+The Executive Board and the Pitt CSC will be direct as to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provides outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. The tools used to analyze and collect the data will be public with all it's source code publicly on the Pitt CSC GitHub organization page.
 
 ### Issues
 
