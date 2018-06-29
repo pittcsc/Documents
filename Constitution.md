@@ -140,26 +140,27 @@ Meetings will be held once a week in order to provide time for networking and gr
 
 ## XX) Data
 
-In order for the officers to understand the state and effectiveness of the club and it's members we do collect certain pieces of information. All officers should be aware of what data we collect and should strive to keep the collection to a minium and keep the data private and protected in order to uphold the privacy of our members. 
+In order for the officers to understand the state and effectiveness of the club and it's members we do collect certain pieces of information. All officers should be aware of what data we collect and should strive to keep the collection to a minimum and keep the data private and protected in order to uphold the privacy of our members.
 
 ### What we collect?
 
-Our collection is limited to attendence of meetings, activity in our group chat (only the time when a message is sent but not the contents of that message), activity on our Github organization (including commits and the impact of those changes), or details about a member from setting up with our attendance system, surveys, check-in or sign-up sheets, events (such as resume review) and our newsletter. TODO: Videos?, Attendance, Instragram?
+Our collection is limited to attendence of meetings, activity in our group chat (only the time when a message is sent but not the contents of that message), activity on our Github organization (including commits and the impact of those changes), or details about a member from setting up with our attendance system and use of said system, surveys, check-in or sign-up sheets, our newsletter, and from events.
 
 ### What is the data used for?
 
-The information is used to evaluate various things such as how effective a particular events is, how attendence changes over the time of a semester, etc. Activity of our members helps the officers figure whether an indivdual is a member of the club, how engage they are with a project, and in special cases which members should be given a high prority for certain events (such as field trips).
+The information is used to evaluate various things such as how effective a particular event is, how attendance changes over the time of a semester, etc. The activity of our members helps the officers figure whether an individual is a member of the club based on our definition in Section VII, to whom to provide incentives for being a member, and in special cases giving a higher priority for a member that have larger engagement with the club to attend limited seated events.
 
 ### What data is given out?
-No data on a particular member, except for any information that a member has consented for the officers to give out, will be givin to sponsors. 
 
-The club gives out general statistics about 
+No data on a individual member, except for any information that a member has consented for the officers to give out, will be given to or any organization outside of Pitt CSC. The club only provides outside organizations with general statistics of the club (e.g. average attendance, demographic of members, etc.)
 
-### Transparency
+### How transparent we are?
 
+The club officers and the club will be direct to what we collect and the purpose behind collecting data. We will gladly reveal all general statistics we provide outside organizations. The club will not reveal an individual member's data, except to the individual directly. The tool we use to analyze and collect the data will be public with all it's source code publicly on our GitHub organization page.
 
 ### Issues
-Any issues with our policy on data should be brought up with any officers, 
+
+Any issues with our policy on data should be brought up with any officers. Any future additions to what we collect should be discussed by the officers internally and with all the active members.
 
 ## XXI) Finances
 
