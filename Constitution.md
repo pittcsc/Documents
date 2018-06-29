@@ -33,7 +33,7 @@ The purpose of the Pitt Computer Science Club are threefold, and outlined as suc
 Pitt CSC is devoted to enriching the communities which it is and is a member: The community of undergradautes interested in CS, the community that is the University of Pittsburgh, and the Greater Pittsburgh area. Events, programs, outreach, initiatives, and interactions with stakeholders in said communities to provide benefit to such communities is thus a principal pillar to Pitt CSC's purpose.
 
 ### Education
-The Pitt CSC hopes to provide a means for students to gain skills that they wouldn't learn in class through student, professor, and industry leader presentations on new and exciting advancements in CS. Pitt CSC will aspire towards greater initiatives to innovate the education of its members such as implementing mentorship programs, new and exciting projects. Pitt CSC, in addition to education of current members, will work to preserve knowledge for future members through recording of presentations, aintaining documents on projects, etc.
+Pitt CSC hopes to provide a means for students to gain skills that they wouldn't learn in class through student, professor, and industry leader presentations on new and exciting advancements in CS. Pitt CSC will aspire towards greater initiatives to innovate the education of its members such as implementing mentorship programs, new and exciting projects. Pitt CSC, in addition to education of current members, will work to preserve knowledge for future members through recording of presentations, aintaining documents on projects, etc.
 
 ### Professional Development
 
@@ -143,7 +143,7 @@ In order for the officers to understand the state and effectiveness of the club 
 
 ### What is collected
 
-Data collection is limited to attendence of meetings, activity in the Pitt CSC group chat (only the time when a message is sent but not the contents of that message), activity on the Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with a Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, images and video for Pitt CSC social media, and from events.
+Data collection is limited to attendence of meetings, activity in the Pitt CSC group chat (only the time when a message is sent but not the contents of that message), activity on the Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with the Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, images and video for Pitt CSC social media, and from events.
 
 ### What is the data used for
 
