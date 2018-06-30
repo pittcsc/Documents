@@ -22,7 +22,7 @@ The organization will submit its annual recertification application to the SORC 
 
 ## V) Purpose
 
-Pitt CSC exists as tool to build a community of students interested in Computer Science, regardless of declared major. It is intended to act as a catalyst with which members will develop professionally, engage with each other socially, and explore the field of Computer Science intellectually.
+Pitt CSC exists as tool to build a community of students interested in Computer Science, regardless of declared major. It is intended to be a community of members to develop professionally, engage with each other socially, and explore the field of Computer Science intellectually.
 
 ## VI) Pillars
 
@@ -99,7 +99,7 @@ The Business Manager is responsible for Pitt CSC finances and maintenance of Pit
 
 ### Event Coordinator
 
-The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, etc.
+The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, events within the Pittsburgh community, etc.
 
 ### Outreach Coordinator
 
