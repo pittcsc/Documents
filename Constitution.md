@@ -30,15 +30,14 @@ The purpose of the Pitt Computer Science Club are threefold, and outlined as suc
 
 ### Community
 
-One of the main goals of the Pitt Computer Science Club is to provide a way for like-minded students to meet each other, with the hope of sharing ideas and collaborating on projects.  Often times, it is hard to know people that possess particular skills, so the club will provide an opportunity for students to get to know each other and learn what their peers' strengths and weaknesses are.  In addition, the club will provide a means for students to socialize and network with people in the computing industry in Pittsburgh, with the hope of helping students realize good future careers and even connect with potential employers.
+Pitt CSC is devoted to enriching the communities which it is and is a member: The community of undergradautes interested in CS, the community that is the University of Pittsburgh, and the Greater Pittsburgh area. Events, programs, outreach, initiatives, and interactions with stakeholders in said communities to provide benefit to such communities is thus a principal pillar to Pitt CSC's purpose.
 
 ### Education
-
-One of the biggest struggles for computer science students is the disparity between the material that is taught in class and what is needed in the workplace.  The Pitt CSC hopes to bridge this gap in knowledge and provide a means for students to gain skills that they wouldn't learn in class through biweekly presentations, created and performed by students, which will give attendees a basic level of knowledge in the presentation subject.  Each of these presentations will be recorded or in some way be made available to all members of the club as references for future learning.
+Pitt CSC hopes to provide a means for students to gain skills that they wouldn't learn in class through student, professor, and industry leader presentations on new and exciting advancements in CS. Pitt CSC will aspire towards greater initiatives to innovate the education of its members such as implementing mentorship programs, new and exciting projects. Pitt CSC, in addition to education of current members, will work to preserve knowledge for future members through recording of presentations, aintaining documents on projects, etc.
 
 ### Professional Development
 
-Lastly, practical experience is hard to come by, unless you have a focused way of achieving it.  The Pitt CS Club hopes to offer these opportunities to students through a series of semester-long projects, which club members will partake in based on their individual areas of interest and levels of experience.  Beginner students will collaborate with knowledgable ones, working together to build an open source project that will always be available to them as a testament to their skills and abilities.  In addition, the projects will stay under the ownership of the club, meaning that all of the code will remain to guide future learning.
+Pitt CSC aspires to act as a guide and mentor for its members as they develop necessary skills and connections to get the most value from their education. Through initiatives and programs such as resume reviews, programming experience in the Pitt CSC group projects, interview prep, networking opportunities, and programming competitions, Pitt CSC will create skilled members ready to succeed in their endeavors after graduation.
 
 ## VII) Membership Requirements
 
@@ -112,47 +111,90 @@ Elections will be held in each Spring semester to determine the officers for the
 
 ## XV) Executive Board Powers
 
-Each officer of the Pitt CSC also retains membership on the Pitt CSC Executive Board. Each member of the board must act as a representative of the Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of the Pitt CSC, and are responsible for assisting officers in the fulfillment of their individual roles/
+Each officer of the Pitt CSC also retains membership on the Pitt CSC Executive Board. Each member of the board must act as a representative of the Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of the Pitt CSC, and are responsible for assisting officers in the fulfillment of their individual roles
 
+## XVI) Initiatives
 
+An initiative is defined to be an aspiration for the club that is not already considered a "core function" of the club. Each initiative should be discussed with all of the officers and the Vice President typically overseeing all initiatives. If an initiative is deemed successful, the officers shall come together, making amendments to club documents as necessary, to allow the initiative to become a "core function" of the club. An initiative to be deemed successful comes from many factors such as duration, effectiveness, etc. and will be decided by the officers collectively when it is successful.
 
-## XVI) Removal of Officers
+### Core Functions
+
+A core function is defined as an established feature of the club which is well defined and is backed by one or more officers. Some core functions of the club include but is not limited to planning events (such as talks, fields trips, etc.), finding sponsors, and connecting with the community, and connecting members together. 
+
+### Supervisors
+
+Each new initiative by the club is appointed a "supervisor", who takes the lead role in bringing forth that particular initiative. There can obviously be other officers or even club members that assist in these initiatives, but the supervisor is the leader who is responsible for the initaitve.
+
+## XVII) Removal of Officers
 
 If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote.
 
-## XVII) Vacancies
+## XVIII) Vacancies
 
 Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, although an officer is able to hold multiple positions if that is deemed the appropriate course of action by the board.
+
 ## XIX) Meetings
 
 Meetings will be held once a week in order to provide time for networking and group project work.  Additionally, there will be biweekly presentations given about topics that are relevant to the education to the members of the group.  At least one quarter of the group must be present to officially conduct the business of the club.  Special meetings can be called by the President or Vice President, given that the body of the club is given at least 5 days notice of the change.  The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for computer science students, and discussing current events in the technological community.
 
-## XX) Finances
+## XX) Data
+
+In order for the officers to understand the state and effectiveness of the club and it's members, Pitt CSC does collect certain pieces of information. All officers should be aware of what data are collected and should strive to keep the collection to a minimum and keep the data private and protected in order to uphold the privacy of Pitt CSC members.
+
+### What is collected
+
+Data collection is limited to attendence of meetings, activity in the Pitt CSC group chat (only the time when a message is sent but not the contents of that message), activity on the Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with the Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, images and video for Pitt CSC social media, and from events.
+
+### What is the data used for
+
+The information is used to evaluate how effective a particular event is, how attendance changes over the time of a semester, etc. The activity of Pitt CSC members helps the officers figure whether an individual is a member of the club based on the definition in Section VII, to whom to provide incentives for being a member, and in special cases giving a higher priority for a member that have larger engagement with the club to attend limited seated events. And we use it to help encourage sponsors to sponsor us through giving accurate general statistics about the club.
+
+### What data is given out
+
+No data on a individual member, except for any information that a member has consented for the officers to give out, will be given to or any organization outside of Pitt CSC. The club only provides outside organizations with general statistics of the club (e.g. average attendance, demographic of members, etc.)
+
+### How transparent is Pitt CSC
+
+The Executive Board and the Pitt CSC will be direct as to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provides outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. The tools used to analyze and collect the data will be public with all it's source code publicly on the Pitt CSC GitHub organization page.
+
+### Issues
+
+Any issues with Pitt CSC policy on data should be brought up with any officers. Any member is free to appeal to the Executive Board to opt out of certain data collection. Any future additions to what is collected should be discussed by the officers internally and with all the active members.
+
+## XXI) Finances
 
 Group funds will be spent to provide enhancement club, including but not limited to helping to offset the costs of attending hackathons, providing refreshments during events, and paying for software subscriptions.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from SGB.
 
 The Pitt CSC shall fully comply with the University fundraising policies and procedures for certified student organizations.
 
-## XXI) Publications Code
+## XXII) Publications Code
 
 In compliance with the Publications Code for Student Organizations, all the publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain for expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process or the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a certified student organization at the University of Pittsburgh.
 
-## XXII) Advisor
+## XXIII) Advisor
 
 The group advisor shall be selected by the board, including the committee chairpeople, by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
 
 The advisor is not required to provide any particular services to the Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
 
-## XXIII) External Affiliations
+## XXIV) External Affiliations
 
-The Pitt CSC is not affiliated with any external organizations.
+The Pitt CSC has two forms of external affiliation: Sponsors and Community Partners.
 
-## XXIV) By-Laws
+### Sponsor
+
+Pitt CSC Sponsors support Pitt CSC and its activities financially. Sponsors may be invited to events and programs, networking opportunities, limited access to Pitt CSC data, and advertisement and exposure within the club.
+
+### Community Partner
+
+Pitt CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. Pitt CSC recognizes Community Partners for continued aid in organizing cohosted programs, encouraging interactions between organization members, and developing a strong community within Pitt CSC, the University of Pittsburgh, and City of Pittsburgh.
+
+## XXV) By-Laws
 
 The Pitt CSC has no additional by-laws.
 
-## XXV) Amendments
+## XXVI) Amendments
 
-Amendments to this Constitution will be presented by a board member for a vote. For approval, an amendment must receive a simple majority vote of approval from the board and a two-thirds vote of approval from the body of active student members.
+Amendments to this Constitution will be presented by an officer for a vote. For approval, an amendment must receive a two-thirds majority vote of approval from the board.
 
 All constitution additions, revisions and deletions must be reported to the SORC.
