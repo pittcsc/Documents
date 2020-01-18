@@ -90,7 +90,7 @@ The President is the chief representative and leader of Pitt CSC. The President 
 
 ### Vice President
 
-The Vice President is responsible for executing executive board initiatives to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles. The Vice President will preside over any meeting in which the President is not present.
+The Vice President is responsible for executing executive board initiatives, through in part by appointment and management of supervisors, to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles. The Vice President will preside over any meeting in which the President is not present.
 
 ### Business Manager
 
@@ -132,7 +132,7 @@ An initiative is defined to be an aspiration for Pitt CSC that is not already co
 
 ### Core Functions
 
-A core function is defined as an established feature of Pitt CSC which is well defined and is backed by one or more officers. Some core functions of Pitt CSC include but is not limited to planning events (such as talks, fields trips, etc.), finding sponsors, and connecting with the community, and connecting members together. 
+A core function is defined as an established feature of Pitt CSC which is well defined and is backed by one or more officers. Some core functions of Pitt CSC include but is not limited to planning events (such as talks, fields trips, etc.), finding sponsors, and connecting with the community, and bringing members together. 
 
 ### Supervisors
 
