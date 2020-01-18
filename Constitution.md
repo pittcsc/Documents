@@ -2,7 +2,7 @@
 
 ## I) Name of Organization
 
-William Pitt Computer Science Club, also refered to as:
+William Pitt Computer Science Club, also referred to as:
 
 - Pitt Computer Science Club
 - Pitt CS Club
@@ -87,7 +87,6 @@ Officers will begin their terms in the Spring semester and will continue until t
 
 The President is the chief representative and leader of Pitt CSC. The President will work to foster community and respect among Pitt CSC members, and coordinate with other members of the Executive Board in fulfillment of their roles.
 
-
 ### Vice President
 
 The Vice President is responsible for executing Executive Board initiatives to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles.
@@ -100,14 +99,22 @@ The Business Manager is responsible for Pitt CSC finances and maintenance of Pit
 
 The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, events within the Pittsburgh community, etc.
 
+### Media Coordinator
+
+The Media Coordinator is responsible for managing all Pitt CSC social media accounts. He or she will design posts for Pitt CSC social media, and will attend all Pitt CSC events, taking photos, videos, and any testimony he or she deems helpful for creating effective social media posts.
+
 ### Outreach Coordinator
 
 The Outreach Coordinator is repsonsible for representing Pitt CSC to outside organizations. He or she will coordinate with organizations on behalf of Pitt CSC with regards to planning events, seeking sponsorships and community partnerships, etc.
 
-
 ## XIV) Election of Officers
 
 Elections will be held in each Spring semester to determine the officers for the proceeding Fall and Spring terms.
+Only freshmen and sophomores are permitted to run for Event Coordinator, Outreach Coordinator, and Media Coordinator. Should no freshmen or sophomores declare the intent to run for any of these positions by the deadline to declare intent to run, then any member will be permitted to run.
+The President will preside over elections, announcing them to the general body at least one month prior to the election date via the email list and Pitt CSC Slack. Any candidate must inform the President of their intent to run at least one week before the scheduled date of the election. Prior to the election day, the President confirm that all candidates are Pitt CSC members according to the requirements set out in this Constitution. Following confirmation, all valid candidates will be announced by the President to the general body before the election date.
+On the day of the election, the executive board and general body will meet at a predetermined location and time. There, the President will address the general body and commence elections. Each office will be elected before the next in the following order: President, Vice President, Business Manager, Event Coordinator, Media Coordinator, Outreach Coordinator. For each office, all candidates will be given at most 5 minutes to speak to the general body, followed by another 5 minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed for that office.
+Votes shall be recorded by secret ballot, counted by the President and the Vice President independently. No others will be permitted to view individual votes. Once the votes have been tallied by the President and Vice President, they will check if they have independently counted the same number of votes for each candidate. If a discrepancy occurs, they will count again and check with each other until they conclude the same totals. Once the votes are validated in this fashion, the candidate with the majority of votes is decalred the winner. Should no candidate reach a majority of total votes, the candidate with the least votes is removed from consideration, and a revote with the remaining candidates will be held immediately.
+If fraud in voting is suspected by any member, they can make a motion to revote with a brief explanation for their suspicion. If the Vice President and President concur, a revote will occur for the suspected office(s).
 
 ## XV) Executive Board Powers
 
