@@ -75,7 +75,8 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 2. Vice President
 3. Business Manager
 4. Event Coordinator
-5. Outreach Coordinator
+5. Media Coordinator
+6. Outreach Coordinator
 
 ## XII) Terms of Office
 
@@ -85,27 +86,31 @@ Officers will begin their terms in the Spring semester and will continue until t
 
 ### President
 
-The President is the chief representative and leader of Pitt CSC. The President will work to foster community and respect among Pitt CSC members, and coordinate with other members of the Executive Board in fulfillment of their roles.
+The President is the chief representative and leader of Pitt CSC. The President will work to foster community and respect among Pitt CSC members, and coordinate with other members of the Executive Board in fulfillment of their roles. He or she is responsible for keeping all officers on task, and ensuring successful management of Pitt CSC. The President will also preside over all meetings of Pitt CSC.
 
 ### Vice President
 
-The Vice President is responsible for executing Executive Board initiatives to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles.
+The Vice President is responsible for executing executive board initiatives to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles. The Vice President will preside over any meeting in which the President is not present.
 
 ### Business Manager
 
-The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center. He or she will work to acquire sponsors for Pitt CSC, maintain records of attendance, etc.
+The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center. He or she will work to acquire sponsors for Pitt CSC, maintain records of attendance, run surveys of the membership as requested by the executive board, maintain a functioning website for Pitt CSC, etc.
 
 ### Event Coordinator
 
-The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, events within the Pittsburgh community, etc.
+The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, events within the Pittsburgh community, etc. He or she will be in charge of designing promotional materials for Pitt CSC events, finalizing details for events with external groups, etc.
 
 ### Media Coordinator
 
-The Media Coordinator is responsible for managing all Pitt CSC social media accounts. He or she will design posts for Pitt CSC social media, and will attend all Pitt CSC events, taking photos, videos, and any testimony he or she deems helpful for creating effective social media posts.
+The Media Coordinator is responsible for managing all Pitt CSC social media accounts and email. He or she will design posts for Pitt CSC social media, and will attend all Pitt CSC events, taking photos, videos, and any testimony he or she deems helpful for creating effective social media posts.
 
 ### Outreach Coordinator
 
-The Outreach Coordinator is repsonsible for representing Pitt CSC to outside organizations. He or she will coordinate with organizations on behalf of Pitt CSC with regards to planning events, seeking sponsorships and community partnerships, etc.
+The Outreach Coordinator is repsonsible for representing Pitt CSC to outside organizations under the direction of the President. He or she will work with external groups to plan events, seek sponsorships and community partnerships, etc. He or she will also be responsible for planning and running recruitment through activities such as student activities fairs, speaking at classes and Pathfinder tours, tabling, etc.
+
+### Lord Protector
+
+The Lord Protector is an honorary position automatically designated to the most senior previous officer of Pitt CSC still in undergraduate studies, or whomever the most senior previous officer should choose to appoint to the role.
 
 ## XIV) Election of Officers
 
@@ -118,11 +123,12 @@ If fraud in voting is suspected by any member, they can make a motion to revote 
 
 ## XV) Executive Board Powers
 
-Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board. Each member of the board must act as a representative of Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of Pitt CSC, and are responsible for assisting officers in the fulfillment of their individual roles
+Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board, with the exception of the Lord Protector. Each member of the board must act as a representative of Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of Pitt CSC, and are responsible for assisting other officers in the fulfillment of their individual roles.
+During a general body meeting, any member may call for a motion for the defense of Pitt CSC. This motion must contain a reason for entering a period of defense of Pitt CSC, and a time frame no longer than one academic year for the period of defense of Pitt CSC. If seconded, an immediate, public, three fourths majority vote is held on the matter. Should it pass, the Lord Protector is installed as the sole member of the executive board for the time frame, and is personally exempt from the restriction on holding multiple officer positions. No constitutional amendments are allowed to be passed during a period of defense of Pitt CSC. During the period of defense of Pitt CSC, the Lord Protector is tasked with effectively reorganizing and managing Pitt CSC in line with its stated purpose and mission, and with resolving whatever conflict or issue was posed in the original call for the period. After the time frame ends, or with the approval of the Lord Protector, normal club management will resume with Officers being reinstated as executive board members and the Lord Protector being removed.
 
 ## XVI) Initiatives
 
-An initiative is defined to be an aspiration for Pitt CSC that is not already considered a "core function" of Pitt CSC. Each initiative should be discussed with all of the officers and the Vice President typically overseeing all initiatives. If an initiative is deemed successful, the officers shall come together, making amendments to Pitt CSC documents as necessary, to allow the initiative to become a "core function" of Pitt CSC. An initiative to be deemed successful comes from many factors such as duration, effectiveness, etc. and will be decided by the officers collectively when it is successful.
+An initiative is defined to be an aspiration for Pitt CSC that is not already considered a "core function" of Pitt CSC. Each initiative should be discussed with all of the officers and the Vice President typically overseeing all initiatives. If an initiative is deemed successful, the board shall come together, making amendments to Pitt CSC documents as necessary, to allow the initiative to become a "core function" of Pitt CSC. An initiative to be deemed successful comes from many factors such as duration, effectiveness, etc. and will be decided by the officers collectively when it is successful.
 
 ### Core Functions
 
@@ -134,11 +140,12 @@ Each new initiative by Pitt CSC is appointed a "supervisor", who takes the lead 
 
 ## XVII) Removal of Officers
 
-If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a simple majority vote.
+If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a two thirds majority vote.
 
 ## XVIII) Vacancies
 
-Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, although an officer is able to hold multiple positions if that is deemed the appropriate course of action by the board.
+Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, however a current officer is not permitted to hold multiple positions.
+At the discretion of the board, a special election can be called to fill a vacancy. The procedures of a special election are to be determined by the board to ensure a swift filling of the vacancy while maintaining a fair election.
 
 ## XIX) Meetings
 
@@ -180,7 +187,7 @@ In compliance with the Publications Code for Student Organizations, all the publ
 
 ## XXIII) Advisor
 
-The group advisor shall be selected by the board, including the committee chairpeople, by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
+The group advisor shall be selected by the board by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
 
 The advisor is not required to provide any particular services to Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
 
