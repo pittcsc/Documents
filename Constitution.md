@@ -76,8 +76,7 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 3. Business Manager
 4. Event Coordinator
 5. Media Coordinator
-6. Outreach Coordinator
-7. Project Coordinator
+6. Project Coordinator
 
 ## XII) Terms of Office
 
@@ -105,13 +104,9 @@ The Event Coordinator is responsible for supervising activities run by Pitt CSC.
 
 The Media Coordinator is responsible for managing all Pitt CSC social media accounts and email. He or she will design posts for Pitt CSC social media, and will attend all Pitt CSC events, taking photos, videos, and any testimony he or she deems helpful for creating effective social media posts.
 
-### Outreach Coordinator
-
-The Outreach Coordinator is repsonsible for representing Pitt CSC to outside organizations under the direction of the President. He or she will work with external groups to plan events, seek sponsorships and community partnerships, etc. He or she will also be responsible for planning and running recruitment through activities such as student activities fairs, speaking at classes and Pathfinder tours, tabling, etc.
-
 ### Project Coordinator
 
-The Project Coordinator is responsible for organizing and managing club projects, facilitating personal and small group projects among members, and bringing Open Source or other external projects to Pitt CSC's attention. He or she will work with the Event Coordinator to plan relevant activities, and with the President and Outreach Coordinator when interacting with open source or other external groups/projects. He or she will also directly survey and work with the membership to aid in planning, development, and deployment of club projects.
+The Project Coordinator is responsible for organizing and managing club projects, facilitating personal and small group projects among members, and bringing Open Source or other external projects to Pitt CSC's attention. He or she will work with the Event Coordinator to plan relevant activities, and with the President and/or Vice President when interacting with open source or other external groups/projects. He or she will also directly survey and work with the membership to aid in planning, development, and deployment of club projects.
 
 ### Lord Protector
 
@@ -120,9 +115,9 @@ The Lord Protector is an honorary position automatically designated to the most 
 ## XIV) Election of Officers
 
 Elections will be held in each Spring semester to determine the officers for the proceeding Fall and Spring terms.
-Only freshmen and sophomores are permitted to run for Event Coordinator, Outreach Coordinator, and Media Coordinator. Should no freshmen or sophomores declare the intent to run for any of these positions by the deadline to declare intent to run, then any member will be permitted to run.
+Only freshmen and sophomores are permitted to run for Event Coordinator, Project Coordinator, and Media Coordinator. Should no freshmen or sophomores declare the intent to run for any of these positions by the deadline to declare intent to run, then any member will be permitted to run.
 The President will preside over elections, announcing them to the general body at least one month prior to the election date via the email list and Pitt CSC Slack. Any candidate must inform the President of their intent to run at least one week before the scheduled date of the election. Prior to the election day, the President confirm that all candidates are Pitt CSC members according to the requirements set out in this Constitution. Following confirmation, all valid candidates will be announced by the President to the general body before the election date.
-On the day of the election, the executive board and general body will meet at a predetermined location and time. There, the President will address the general body and commence elections. Each office will be elected before the next in the following order: President, Vice President, Business Manager, Event Coordinator, Media Coordinator, Outreach Coordinator. For each office, all candidates will be given at most 5 minutes to speak to the general body, followed by another 5 minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed for that office.
+On the day of the election, the executive board and general body will meet at a predetermined location and time. There, the President will address the general body and commence elections. Each office will be elected before the next in the following order: President, Vice President, Business Manager, Event Coordinator, Media Coordinator, Project Coordinator. For each office, all candidates will be given at most 5 minutes to speak to the general body, followed by another 5 minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed for that office.
 Votes shall be recorded by secret ballot, counted by the President and the Vice President independently. No others will be permitted to view individual votes. Once the votes have been tallied by the President and Vice President, they will check if they have independently counted the same number of votes for each candidate. If a discrepancy occurs, they will count again and check with each other until they conclude the same totals. Once the votes are validated in this fashion, the candidate with the majority of votes is decalred the winner. Should no candidate reach a majority of total votes, the candidate with the least votes is removed from consideration, and a revote with the remaining candidates will be held immediately.
 If fraud in voting is suspected by any member, they can make a motion to revote with a brief explanation for their suspicion. If the Vice President and President concur, a revote will occur for the suspected office(s).
 
