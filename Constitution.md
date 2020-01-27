@@ -84,27 +84,27 @@ Officers will begin their terms in the Spring semester and will continue until t
 
 ## XIII) Officer Responsibilities and Duties
 
-### President / Godfather
+### President
 
 The President is the chief representative and leader of Pitt CSC. The President will work to foster community and respect among Pitt CSC members, and coordinate with other members of the Executive Board in fulfillment of their roles. He or she is responsible for keeping all officers on task, and ensuring successful management of Pitt CSC. The President will also preside over all meetings of Pitt CSC.
 
-### Vice President / Vice Godfather
+### Vice President
 
 The Vice President is responsible for executing executive board initiatives, through in part by appointment and management of supervisors, to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles. The Vice President will preside over any meeting in which the President is not present.
 
-### Business Manager / Consigliere
+### Business Manager
 
 The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center. He or she will work to acquire sponsors for Pitt CSC, maintain records of attendance, run surveys of the membership as requested by the executive board, maintain a functioning website for Pitt CSC, etc.
 
-### Event Coordinator / Don of Events
+### Event Coordinator
 
 The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, events within the Pittsburgh community, etc. He or she will be in charge of designing promotional materials for Pitt CSC events, finalizing details for events with external groups, etc.
 
-### Media Coordinator / Don of Media
+### Media Coordinator
 
 The Media Coordinator is responsible for managing all Pitt CSC social media accounts and email. He or she will design posts for Pitt CSC social media, and will attend all Pitt CSC events, taking photos, videos, and any testimony he or she deems helpful for creating effective social media posts.
 
-### Project Coordinator / Don of Projects
+### Project Coordinator
 
 The Project Coordinator is responsible for organizing and managing club projects, facilitating personal and small group projects among members, and bringing Open Source or other external projects to Pitt CSC's attention. He or she will work with the Event Coordinator to plan relevant activities, and with the President and/or Vice President when interacting with open source or other external groups/projects. He or she will also directly survey and work with the membership to aid in planning, development, and deployment of club projects.
 
