@@ -77,6 +77,7 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 4. Event Coordinator
 5. Media Coordinator
 6. Outreach Coordinator
+7. Project Coordinator
 
 ## XII) Terms of Office
 
@@ -107,6 +108,10 @@ The Media Coordinator is responsible for managing all Pitt CSC social media acco
 ### Outreach Coordinator
 
 The Outreach Coordinator is repsonsible for representing Pitt CSC to outside organizations under the direction of the President. He or she will work with external groups to plan events, seek sponsorships and community partnerships, etc. He or she will also be responsible for planning and running recruitment through activities such as student activities fairs, speaking at classes and Pathfinder tours, tabling, etc.
+
+### Project Coordinator
+
+The Project Coordinator is responsible for organizing and managing club projects, facilitating personal and small group projects among members, and bringing Open Source or other external projects to Pitt CSC's attention. He or she will work with the Event Coordinator to plan relevant activities, and with the President and Outreach Coordinator when interacting with open source or other external groups/projects. He or she will also directly survey and work with the membership to aid in planning, development, and deployment of club projects.
 
 ### Lord Protector
 
