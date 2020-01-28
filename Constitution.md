@@ -110,7 +110,7 @@ The Project Coordinator is responsible for organizing and managing club projects
 
 ### Lord Protector
 
-The Lord Protector is an honorary position automatically designated to the most senior previous officer of Pitt CSC still in undergraduate studies, or whomever the most senior previous officer should choose to appoint to the role.
+The Lord Protector is an honorary position for a former Pitt CSC officer, appointed by a vote of all former officers who maintain student status.
 
 ## XIV) Election of Officers
 
