@@ -108,10 +108,6 @@ The Media Coordinator is responsible for managing all Pitt CSC social media acco
 
 The Project Coordinator is responsible for organizing and managing club projects, facilitating personal and small group projects among members, and bringing Open Source or other external projects to Pitt CSC's attention. He or she will work with the Event Coordinator to plan relevant activities, and with the President and/or Vice President when interacting with open source or other external groups/projects. He or she will also directly survey and work with the membership to aid in planning, development, and deployment of club projects.
 
-### Lord Protector
-
-The Lord Protector is an honorary position for a former Pitt CSC officer, appointed by a vote of all former officers who maintain student status.
-
 ## XIV) Election of Officers
 
 Elections will be held in each Spring semester to determine the officers for the proceeding Fall and Spring terms.
@@ -123,8 +119,7 @@ If fraud in voting is suspected by any member, they can make a motion to revote 
 
 ## XV) Executive Board Powers
 
-Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board, with the exception of the Lord Protector. Each member of the board must act as a representative of Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of Pitt CSC, and are responsible for assisting other officers in the fulfillment of their individual roles.
-During a general body meeting, any member may call for a motion for the defense of Pitt CSC. This motion must contain a reason for entering a period of defense of Pitt CSC, and a time frame no longer than one academic year for the period of defense of Pitt CSC. If seconded, an immediate, public, three fourths majority vote is held on the matter. Should it pass, the Lord Protector is installed as the sole member of the executive board for the time frame, and is personally exempt from the restriction on holding multiple officer positions. No constitutional amendments are allowed to be passed during a period of defense of Pitt CSC. During the period of defense of Pitt CSC, the Lord Protector is tasked with effectively reorganizing and managing Pitt CSC in line with its stated purpose and mission, and with resolving whatever conflict or issue was posed in the original call for the period. After the time frame ends, or with the approval of the Lord Protector, normal club management will resume with Officers being reinstated as executive board members and the Lord Protector being removed.
+Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board. Each member of the board must act as a representative of Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of Pitt CSC, and are responsible for assisting other officers in the fulfillment of their individual roles.
 
 ## XVI) Initiatives
 
