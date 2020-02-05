@@ -1,8 +1,7 @@
 # Pitt CSC Constitution
 
 ## I) Name of Organization
-
-William Pitt Computer Science Club, also referred to as:
+University of Pittsburgh Computer Science Club, also referred to as:
 
 - Pitt Computer Science Club
 - Pitt CS Club
@@ -90,7 +89,7 @@ The President is the chief representative and leader of Pitt CSC. The President 
 
 ### Vice President
 
-The Vice President is responsible for executing executive board initiatives, through in part by appointment and management of supervisors, to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other members of the Executive Board in fulfillment of their roles. The Vice President will preside over any meeting in which the President is not present.
+The Vice President is responsible for executing executive board initiatives, through in part by appointment and management of supervisors, to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other officers in fulfillment of their roles. The Vice President will preside over any meeting in which the President is not present.
 
 ### Business Manager
 
@@ -99,14 +98,6 @@ The Business Manager is responsible for Pitt CSC finances and maintenance of Pit
 ### Event Coordinator
 
 The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, events within the Pittsburgh community, etc. He or she will be in charge of designing promotional materials for Pitt CSC events, finalizing details for events with external groups, etc.
-
-### Media Coordinator
-
-The Media Coordinator is responsible for managing all Pitt CSC social media accounts and email. He or she will design posts for Pitt CSC social media, and will attend all Pitt CSC events, taking photos, videos, and any testimony he or she deems helpful for creating effective social media posts.
-
-### Project Coordinator
-
-The Project Coordinator is responsible for organizing and managing club projects, facilitating personal and small group projects among members, and bringing Open Source or other external projects to Pitt CSC's attention. He or she will work with the Event Coordinator to plan relevant activities, and with the President and/or Vice President when interacting with open source or other external groups/projects. He or she will also directly survey and work with the membership to aid in planning, development, and deployment of club projects.
 
 ## XIV) Election of Officers
 
@@ -121,17 +112,9 @@ If fraud in voting is suspected by any member, they can make a motion to revote 
 
 Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board. Each member of the board must act as a representative of Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of Pitt CSC, and are responsible for assisting other officers in the fulfillment of their individual roles.
 
-## XVI) Initiatives
+## XVI) Supervisors
 
-An initiative is defined to be an aspiration for Pitt CSC that is not already considered a "core function" of Pitt CSC. Each initiative should be discussed with all of the officers and the Vice President typically overseeing all initiatives. If an initiative is deemed successful, the board shall come together, making amendments to Pitt CSC documents as necessary, to allow the initiative to become a "core function" of Pitt CSC. An initiative to be deemed successful comes from many factors such as duration, effectiveness, etc. and will be decided by the officers collectively when it is successful.
-
-### Core Functions
-
-A core function is defined as an established feature of Pitt CSC which is well defined and is backed by one or more officers. Some core functions of Pitt CSC include but is not limited to planning events (such as talks, fields trips, etc.), finding sponsors, and connecting with the community, and bringing members together. 
-
-### Supervisors
-
-Each new initiative by Pitt CSC is appointed a "supervisor", who takes the lead role in bringing forth that particular initiative. There can obviously be other officers or even Pitt CSC members that assist in these initiatives, but the supervisor is the leader who is responsible for the initaitve.
+A Supervisor is an officer position created by the Executive Board at the request of the Vice President. Supervisors cannot be members of the Executive Board, and are created and disolved through a simple majority vote of the Executive Board. They may perform annual, ad-hoc functions (EX: SteelHacks Director, Recruitment Lead, managers for club projects, etc.) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer, which need consistent management (EX: Social Media Manager, SCI Ambassador, Alumni Outreach Director, etc.). These Supervisors are to be primarily managed and assisted by the Vice President, though other officers may help or work with them when deemed expedient.
 
 ## XVII) Removal of Officers
 
@@ -183,8 +166,9 @@ In compliance with the Publications Code for Student Organizations, all the publ
 ## XXIII) Advisor
 
 The group advisor shall be selected by the board by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
-
 The advisor is not required to provide any particular services to Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
+
+Additionally, all former officers of Pitt CSC, only as long as they remain students, will serve as a collective body of advisors. This old guard of Pitt CSC will be expected to provide advice to the board when sollicited. Otherwise, they may take as much interest in the affairs of Pitt CSC as any other member.
 
 ## XXIV) External Affiliations
 
