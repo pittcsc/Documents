@@ -74,8 +74,6 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 2. Vice President
 3. Business Manager
 4. Event Coordinator
-5. Media Coordinator
-6. Project Coordinator
 
 ## XII) Terms of Office
 
@@ -168,7 +166,7 @@ In compliance with the Publications Code for Student Organizations, all the publ
 The group advisor shall be selected by the board by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
 The advisor is not required to provide any particular services to Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
 
-Additionally, all former officers of Pitt CSC, only as long as they remain students, will serve as a collective body of advisors. This old guard of Pitt CSC will be expected to provide advice to the board when sollicited. Otherwise, they may take as much interest in the affairs of Pitt CSC as any other member.
+Additionally, all former officers of Pitt CSC, only as long as they remain students, will serve as an advisory body. This old guard of Pitt CSC will be expected to provide advice to the board when sollicited. Otherwise, they may take as much interest in the affairs of Pitt CSC as any other student member.
 
 ## XXIV) External Affiliations
 
