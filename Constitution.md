@@ -73,7 +73,10 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 1. President
 2. Vice President
 3. Business Manager
-4. Event Coordinator
+4. Director of Initiatives
+5. Internal Affairs Coordinator
+6. Events Coordinator
+7. Public Relations Manager
 
 ## XII) Terms of Office
 
@@ -83,19 +86,31 @@ Officers will begin their terms in the Spring semester and will continue until t
 
 ### President
 
-The President is the chief representative and leader of Pitt CSC. The President will work to foster community and respect among Pitt CSC members, and coordinate with other members of the Executive Board in fulfillment of their roles. He or she is responsible for keeping all officers on task, and ensuring successful management of Pitt CSC. The President will also preside over all meetings of Pitt CSC.
+The President is the chief representative and leader of Pitt CSC. The President will attend and manage all Pitt CSC functions when possible. They are responisble for creating and maintaining an opena and welcoming community by working with the other officers to assist in completion of their tasks. He or she is responsible for keeping all officers on task, and ensuring successful management of Pitt CSC.
 
 ### Vice President
 
-The Vice President is responsible for executing executive board initiatives, through in part by appointment and management of supervisors, to improve and innovate the overall quality and efficiency of Pitt CSC. The Vice President will also coordinate with other officers in fulfillment of their roles. The Vice President will preside over any meeting in which the President is not present.
+The Vice President handles all communication and interactions with persons and organizations outside the University of Pitsburgh. This includes reviewing and reading external communication via email and other queries, maintaining contact with local groups and organizations relevant to Pitt CSC, and assisting in sponsorship or community partner communications. The Vice President also fulfills the role and/or responsibilities of President when the President is not present or at the President's request.
 
 ### Business Manager
 
-The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center. He or she will work to acquire sponsors for Pitt CSC, maintain records of attendance, run surveys of the membership as requested by the executive board, maintain a functioning website for Pitt CSC, etc.
+The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center. He or she will handle finances, distribute reimbursements, attend mandatory SORC training events, and maintain organized records of attendance and other documents or data for Pitt CSC. 
+
+### Director of Initiatives
+
+The Director of Initiatives will brainstorm and create new programs, activities, and methodology (initiatives) for Pitt CSC. He or she will manage any and all Supervisor positions, and is empowered to create new Supervisors with Executive Board approval.
+
+### Internal Affairs Coordinator
+
+The Internal Affairs Coordinator is responsible for all communication and interactions with persons or organizations within the University of Pittsburgh. This includes student organizations, the School of Computing and Information, and alumni of Pitt CSC.
 
 ### Event Coordinator
 
-The Event Coordinator is responsible for supervising activities run by Pitt CSC. He or she will organize events including but not limited to general body meetings, group projects, hackathons, events within the Pittsburgh community, etc. He or she will be in charge of designing promotional materials for Pitt CSC events, finalizing details for events with external groups, etc.
+The Event Coordinator is responsible for planning activities run by Pitt CSC. He or she will set dates and manage a semesterly timeline and calendar and for each event will confirm location, food, speakers, promotional material, etc. In accomplishing this task, the he or she must coordinate with other officers.
+
+### Public Relations Manager
+
+The Public Relations Manager is responsible for Pitt CSC's public presense and brand. He or she will run all social media, send email newsletters, and create promotional material and external advertisements.
 
 ## XIV) Election of Officers
 
@@ -112,7 +127,7 @@ Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board. Ea
 
 ## XVI) Supervisors
 
-A Supervisor is an officer position created by the Executive Board at the request of the Vice President. Supervisors cannot be members of the Executive Board, and are created and disolved through a simple majority vote of the Executive Board. They may perform annual, ad-hoc functions (EX: SteelHacks Director, Recruitment Lead, managers for club projects, etc.) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer, which need consistent management (EX: Social Media Manager, SCI Ambassador, Alumni Outreach Director, etc.). These Supervisors are to be primarily managed and assisted by the Vice President, though other officers may help or work with them when deemed expedient.
+A Supervisor is an officer position created by the Executive Board at the request of the Director of Initiatives. Supervisors cannot be members of the Executive Board, and are created and disolved through a simple majority vote of the Executive Board. They may perform annual, ad-hoc functions (EX: SteelHacks Director, Recruitment Lead, managers for club projects, etc.) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer, which need consistent management (EX: Social Media Manager, SCI Ambassador, Alumni Outreach Director, etc.). These Supervisors are to be primarily managed and assisted by the Vice President, though other officers may help or work with them when deemed expedient.
 
 ## XVII) Removal of Officers
 
