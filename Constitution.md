@@ -74,7 +74,7 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 2. Vice President
 3. Business Manager
 4. Director of Initiatives
-5. Events Coordinator +[RENAME]
+5. Events Coordinator
 6. Special Events Coordinator
 7. Public Relations and Communications Manager
 
@@ -106,11 +106,11 @@ The Event Coordinator is responsible for planning activities run by Pitt CSC. He
 
 ### Special Event Coordinator
 
-The Special Events Coordinator is in charge of planning special events - especially events in collaboration with other organizations. This means student orgs such as WiCS/KTP/RAS, the School of Computing and Information, and communication with any other body within the University. This includes coordinating interesting speakers and incentives for hackathon events. +[DESCRIPTION]
+The Special Events Coordinator is in charge of planning special events - especially events in collaboration with other organizations. This means student orgs such as WiCS/KTP/RAS, the School of Computing and Information, and communication with any other body within the University. This includes coordinating interesting speakers and incentives for hackathon events.
 
 ### Public Relations and Communications Manager
 
-The Public Relations and Communications Manager is responsible for all communication and interactions with persons or organizations within the University of Pittsburgh. This includes student organizations, the School of Computing and Information, and alumni of Pitt CSC. The Public Relations and Communications Manager is also responsible for Pitt CSC's public presence and brand. He or she will run all social media, send email newsletters, and create promotional material and external advertisements. +[DESCRIPTION]
+The Public Relations and Communications Manager is responsible for all communication and interactions with persons or organizations within the University of Pittsburgh. This includes student organizations, the School of Computing and Information, and alumni of Pitt CSC. The Public Relations and Communications Manager is also responsible for Pitt CSC's public presence and brand. He or she will run all social media, send email newsletters, and create promotional material and external advertisements.
 
 ## XIV) Election of Officers
 
@@ -127,17 +127,21 @@ Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board. Ea
 
 ## XVI) Supervisors, Initiative Leads
 
-A Supervisor is an officer position created by the Executive Board at the request of the Director of Initiatives. Supervisors cannot be members of the Executive Board, and are created and dissolved through a simple majority vote of the Executive Board. They may perform annual, ad-hoc functions (EX: SteelHacks Director, Recruitment Lead, managers for club projects, etc.) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer, which need consistent management (EX: Social Media Manager, SCI Ambassador, Alumni Outreach Director, etc.). These Supervisors are to be primarily managed and assisted by the Vice President and Director of Initiatives, though other officers may help or work with them when deemed expedient. Supervisor positions are named "X Initiative Lead" where X refers to the project under supervision. +[INITIATIVE_LEAD]
+A Supervisor is an officer position created by the Executive Board at the request of the Director of Initiatives. Supervisors cannot be members of the Executive Board, and are created and dissolved through a simple majority vote of the Executive Board. They may perform annual, ad-hoc functions (EX: SteelHacks Director, Recruitment Lead, managers for club projects, etc.) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer, which need consistent management (EX: Social Media Manager, SCI Ambassador, Alumni Outreach Director, etc.). These Supervisors are to be primarily managed and assisted by the Vice President and Director of Initiatives, though other officers may help or work with them when deemed expedient. Supervisor positions are named "X Initiative Lead" where X refers to the project under supervision.
 
 ## XVII) Removal of Officers
 
-If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a 5/7 majority vote. +[QUOTA_CHANGE]
+If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a two thirds majority vote.
 
-If 40 active club members self organize a petition supporting the removal of an officer, the board must vote on the removal of the officer within five business days from submission by simple majority vote. Petitions are to be submitted to the Vice President. The Vice President must call the vote, and publish the results of the vote within 24 hours of when all votes are submitted. If the Vice President fails to fulfill these duties, he or she shall be removed by default. +[PETITION_CLAUSE]
+If 40 active club members self organize a petition supporting the removal of an officer, the board must vote on the removal of the officer within five business days from submission by simple majority vote. Petitions are to be submitted to the Vice President. The Vice President must call the vote, and publish the results of the vote within 24 hours of when all votes are submitted. If the Vice President fails to fulfill these duties, he or she shall be removed by default.
 
-If an executive board member fails to vote or there is a vacancy, their vote will default in favor of removal. As a penalty for failing to vote, for the rest of the absent officer's term, they may be removed at any time by simple majority. +[VACANCY_CLAUSE]
+If an executive board member fails to vote or there is a vacancy, their vote will default in favor of removal. As a penalty for failing to vote, for the rest of the absent officer's term, they may be removed at any time by simple majority.
 
-Votes may be made asynchronously. If an officer votes to remove themselves, it is treated as a resignation. +[VOTING_CLARIFICATIONS]
+Votes may be made asynchronously. If an officer votes to remove themselves, it is treated as a resignation and no further voting is required.
+
+If there are more than two vacancies within the officer board, there must be no more than one dissenting vote to remove an additional officer. For example, if there are six officers, you would need a two thirds majority vote to remove an officer, while a five member board would need a four member majority to remove an officer, and a four member board would require a three member majority.
+
+The board must have at least 3 officers, therefore no officers may be removed if the board gets down to 3 members.
 
 ## XVIII) Vacancies
 
@@ -145,7 +149,7 @@ Vacancies will be filled by appointment from the board. The replacement will hol
 
 At the discretion of the board, a special election can be called to fill a vacancy. The procedures of a special election are to be determined by the board to ensure a swift filling of the vacancy while maintaining a fair election.
 
-If the Director of Initiatives' position is vacant, the new Director must be elected from existing Supervisors. All executive board members and Supervisors may vote in this election, which otherwise follows election procedures as defined in Section XIV. If a new Director cannot be elected from existing Supervisors, the vacancy will be filled by special election. +[DIRECTOR_OF_INITIATIVES_CLAUSE]
+If the Director of Initiatives' position is vacant, the new Director must be elected from existing Supervisors. All executive board members and Supervisors may vote in this election, which otherwise follows election procedures as defined in Section XIV. If a new Director cannot be elected from existing Supervisors, the vacancy will be filled by special election.
 
 ## XIX) Meetings
 
@@ -157,7 +161,7 @@ In order for the officers to understand the state and effectiveness of Pitt CSC 
 
 ### What is collected
 
-Data collection is limited to attendance of meetings, activity in Pitt CSC Discord, activity on Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, digital communications, images and video for Pitt CSC social media, and from events. +[MESSAGE_COLLECTION]
+Data collection is limited to attendance of meetings, activity in Pitt CSC Discord, activity on Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, digital communications, images and video for Pitt CSC social media, and from events.
 
 ### What is the data used for
 
@@ -169,7 +173,7 @@ No data on a individual member, except for any information that a member has con
 
 ### How transparent is Pitt CSC
 
-The Executive Board and Pitt CSC will be direct as to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provides outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. Non-Commercial tools used to analyze and collect data will be made public with all of it's source code publicly on Pitt CSC GitHub organization page. +[NON_COMMERCIAL_CLAUSE]
+The Executive Board and Pitt CSC will be direct as to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provides outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. Non-Commercial tools used to analyze and collect data will be made public with all of it's source code publicly on Pitt CSC GitHub organization page.
 
 ### Issues
 
@@ -190,7 +194,7 @@ In compliance with the Publications Code for Student Organizations, all the publ
 The group advisor shall be selected by the board by a simple majority vote. In the event of the need arising to remove an advisor, a simple majority must approve the decision.
 The advisor is not required to provide any particular services to Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
 
-Additionally, all former officers of Pitt CSC, only as long as they remain students, will serve as an advisory body. This old guard of Pitt CSC will be expected to provide advice to the board when solicited. Otherwise, they may take as much interest in the affairs of Pitt CSC as any other associate member. +[USE_ASSOCIATE_TERMINOLOGY]
+Additionally, all former officers of Pitt CSC, only as long as they remain students, will serve as an advisory body. This old guard of Pitt CSC will be expected to provide advice to the board when solicited. Otherwise, they may take as much interest in the affairs of Pitt CSC as any other associate member.
 
 ## XXIV) External Affiliations
 
@@ -206,12 +210,12 @@ Pitt CSC Community Partners are reciprocal relationships with organizations base
 
 ## XXV) By-Laws
 
-Pitt CSC officers must be present at the majority of Pitt CSC meetings and participate in at least one event (zero to offer, CSCHacks, SteelHacks, etc...) +[ATTENDANCE_CLAUSE]
+Pitt CSC officers must be present at the majority of Pitt CSC meetings and participate in at least one event (zero to offer, CSCHacks, SteelHacks, etc...)
 
-The President, Vice President, and Business Manager may choose to swap their roles at any time. Changes must be reported to SORC. +[SWAP_CLAUSE]
+The President, Vice President, and Business Manager may choose to swap their roles at any time. Changes must be reported to SORC.
 
 ## XXVI) Amendments
 
-Amendments to this Constitution may be presented by any active club member. For approval, an amendment must receive a 5/7 majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are presented, but their implementation, if successful, may be differed to the next semester or academic year. Amendments cannot be passed when there is a vacancy. +[NEW_AMENDMENT_CLAUSE]
+Amendments to this Constitution may be submitted by any active club member. For approval, an amendment must receive a two thirds majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are submitted, but their implementation, if successful, may be deferred to the next semester or academic year. Amendments cannot be passed when there is a vacancy.
 
 All constitution additions, revisions and deletions must be reported to the SORC.
