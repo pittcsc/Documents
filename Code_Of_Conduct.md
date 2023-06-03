@@ -40,7 +40,7 @@ Our open source community prioritizes marginalized people’s safety over privil
 
 ## Advertisements
 
-Advertisements are **not** to be posted in the Pitt Computer Science Slack without prior officer approval. Advertisements may be deleted at the discretion of the Pitt Computer Science Club officers.
+Advertisements are **not** to be posted in the Pitt Computer Science Club Discord without prior officer approval. Advertisements may be deleted at the discretion of the Pitt Computer Science Club officers.
 
 ### Diversity Statement
 

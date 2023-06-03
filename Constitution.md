@@ -17,7 +17,7 @@ The organization and members accept and will comply with the following limits of
 
 ## IV) Annual Recertification
 
-The organization will submit its annual recertification application to the SORC within one week after the election of new officers.
+The organization will submit its re-registration application once a year during the defined re-registration process.
 
 ## V) Purpose
 
@@ -29,10 +29,10 @@ The purpose of Pitt CSC is threefold, and outlined as such:
 
 ### Community
 
-Pitt CSC is devoted to enriching the communities which it is and is a member: The community of undergradautes interested in CS, the community that is the University of Pittsburgh, and the Greater Pittsburgh area. Events, programs, outreach, initiatives, and interactions with stakeholders in said communities to provide benefit to such communities is thus a principal pillar to Pitt CSC's purpose.
+Pitt CSC is devoted to enriching the communities which it is and is a member: The community of undergraduates interested in CS, the community that is the University of Pittsburgh, and the Greater Pittsburgh area. Events, programs, outreach, initiatives, and interactions with stakeholders in said communities to provide benefit to such communities is thus a principal pillar to Pitt CSC's purpose.
 
 ### Education
-Pitt CSC hopes to provide a means for students to gain skills that they wouldn't learn in class through student, professor, and industry leader presentations on new and exciting advancements in CS. Pitt CSC will aspire towards greater initiatives to innovate the education of its members such as implementing mentorship programs, new and exciting projects. Pitt CSC, in addition to education of current members, will work to preserve knowledge for future members through recording of presentations, aintaining documents on projects, etc.
+Pitt CSC hopes to provide a means for students to gain skills that they wouldn't learn in class through student, professor, and industry leader presentations on new and exciting advancements in CS. Pitt CSC will aspire towards greater initiatives to innovate the education of its members such as implementing mentorship programs, new and exciting projects. Pitt CSC, in addition to education of current members, will work to preserve knowledge for future members through recording of presentations, maintaining documents on projects, etc.
 
 ### Professional Development
 
@@ -53,7 +53,7 @@ orientation, gender identity and expression, genetic information, disability or 
 ## VIII) Membership Procedures
 
 1. Recruitment: Recruitment for Pitt CSC will occur throughout the year, though primarily at the beginning of the Spring and Fall semesters.
-2. Application and Selection: As an optional cocurricular club, Pitt CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in group activities.  Regular participation is defined as making a commitment to contribute to group projects on a weekly basis and making oneself available to come to meetings every week.
+2. Application and Selection: As an optional co-curricular club, Pitt CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in group activities.  Regular participation is defined as making a commitment to contribute to group projects on a weekly basis and making oneself available to come to meetings every week.
 3. Inactive members: Members of Pitt CSC who fail to attend to contribute to Pitt CSC activities within a period of an academic year will be presumed inactive and removed from the Pitt CSC roster.  Students that are inactive for a semester will not be placed on a project team for the following semester.
 4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to Pitt CSC activities within a semester of doing so.
 
@@ -64,7 +64,7 @@ Voting privileges are limited to currently enrolled Pitt student members in good
 ## X) Associate Membership
 
 1. Policies regarding Associate Membership will follow the procedures laid out in Section VIII. Associate members may not vote, hold office nor serve in a formal leadership role. They may participate in organization meetings and activities. Pitt student membership shall comprise of at least 75% of the total membership at all times.
-2. Associate membership is comprised of students from neighboring universities and graduates that are interested in participating in Pitt CSC's activities.  They will not be actively recruited, but are welcome to attend and participate in Pitt CSC affairs if interested.
+2. Associate membership is comprised of students from neighboring universities and graduates that are interested in participating in Pitt CSC's activities. They will not be actively recruited, but are welcome to attend and participate in Pitt CSC affairs if interested.
 
 ## XI) Executive Board
 
@@ -74,9 +74,9 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 2. Vice President
 3. Business Manager
 4. Director of Initiatives
-5. Internal Affairs Coordinator
-6. Events Coordinator
-7. Public Relations Manager
+5. Events Coordinator +[RENAME]
+6. Special Events Coordinator
+7. Public Relations and Communications Manager
 
 ## XII) Terms of Office
 
@@ -86,31 +86,31 @@ Officers will begin their terms in the Spring semester and will continue until t
 
 ### President
 
-The President is the chief representative and leader of Pitt CSC. The President will attend and manage all Pitt CSC functions when possible. They are responisble for creating and maintaining an opena and welcoming community by working with the other officers to assist in completion of their tasks. He or she is responsible for keeping all officers on task, and ensuring successful management of Pitt CSC.
+The President is the chief representative and leader of Pitt CSC. The President will attend and manage all Pitt CSC functions when possible. They are responsible for creating and maintaining an open and welcoming community by working with the other officers to assist in completion of their tasks. He or she is responsible for keeping all officers on task, and ensuring successful management of Pitt CSC.
 
 ### Vice President
 
-The Vice President handles all communication and interactions with persons and organizations outside the University of Pitsburgh. This includes reviewing and reading external communication via email and other queries, maintaining contact with local groups and organizations relevant to Pitt CSC, and assisting in sponsorship or community partner communications. The Vice President also fulfills the role and/or responsibilities of President when the President is not present or at the President's request.
+The Vice President handles all communication and interactions with persons and organizations outside the University of Pittsburgh. This includes reviewing and reading external communication via email and other queries, maintaining contact with local groups and organizations relevant to Pitt CSC, and assisting in sponsorship or community partner communications. The Vice President also fulfills the role and/or responsibilities of President when the President is not present or at the President's request.
 
 ### Business Manager
 
-The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center. He or she will handle finances, distribute reimbursements, attend mandatory SORC training events, and maintain organized records of attendance and other documents or data for Pitt CSC. 
+The Business Manager is responsible for Pitt CSC finances and maintenance of Pitt CSC records. The Business Manager will also be the main point of contact for the University of Pittsburgh Student Organization Resource Center (hereinafter referred to as SORC.) He or she will handle finances, distribute reimbursements, attend mandatory SORC training events, and maintain organized records of attendance and other documents or data for Pitt CSC. 
 
 ### Director of Initiatives
 
 The Director of Initiatives will brainstorm and create new programs, activities, and methodology (initiatives) for Pitt CSC. He or she will manage any and all Supervisor positions, and is empowered to create new Supervisors with Executive Board approval.
 
-### Internal Affairs Coordinator
-
-The Internal Affairs Coordinator is responsible for all communication and interactions with persons or organizations within the University of Pittsburgh. This includes student organizations, the School of Computing and Information, and alumni of Pitt CSC.
-
 ### Event Coordinator
 
 The Event Coordinator is responsible for planning activities run by Pitt CSC. He or she will set dates and manage a semesterly timeline and calendar and for each event will confirm location, food, speakers, promotional material, etc. In accomplishing this task, the he or she must coordinate with other officers.
 
-### Public Relations Manager
+### Special Event Coordinator
 
-The Public Relations Manager is responsible for Pitt CSC's public presense and brand. He or she will run all social media, send email newsletters, and create promotional material and external advertisements.
+The Special Events Coordinator is in charge of planning special events - especially events in collaboration with other organizations. This means student orgs such as WiCS/KTP/RAS, the School of Computing and Information, and communication with any other body within the University. This includes coordinating interesting speakers and incentives for hackathon events. +[DESCRIPTION]
+
+### Public Relations and Communications Manager
+
+The Public Relations and Communications Manager is responsible for all communication and interactions with persons or organizations within the University of Pittsburgh. This includes student organizations, the School of Computing and Information, and alumni of Pitt CSC. The Public Relations and Communications Manager is also responsible for Pitt CSC's public presence and brand. He or she will run all social media, send email newsletters, and create promotional material and external advertisements. +[DESCRIPTION]
 
 ## XIV) Election of Officers
 
@@ -118,29 +118,38 @@ Elections will be held in each Spring semester to determine the officers for the
 Only freshmen and sophomores are permitted to run for Event Coordinator. Should no freshmen or sophomores declare the intent to run for any of these positions by the deadline to declare intent to run, then any member will be permitted to run.
 The President will preside over elections, announcing them to the general body at least one month prior to the election date via any and all available means of communication with the general body. Any candidate must inform the President of their intent to run at least one week before the scheduled date of the election. Prior to the election day, the President will confirm that all candidates are Pitt CSC members according to the requirements set out in this Constitution. Following confirmation, all valid candidates will be announced by the President to the general body before the election date.
 On the day of the election, a general body meeting will be held. There, the President will address the general body and commence elections. Each office will be elected before the next in the following order: President, Vice President, Business Manager, Event Coordinator. For each office, all candidates will be given at most 5 minutes to speak to the general body, followed by another 5 minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed for that office.
-Votes shall be recorded by secret ballot, counted by the President and the Vice President independently. No others will be permitted to view individual votes. Once the votes have been tallied by the President and Vice President, they will check if they have independently counted the same number of votes for each candidate. If a discrepancy occurs, they will count again and check with each other until they conclude the same totals or decide to move to revote from fraud. Once the votes are validated in this fashion, the candidate with the majority of votes is decalred the winner. Should no candidate reach a majority of total votes, the candidate with the least votes is removed from consideration, and a revote with the remaining candidates will be held immediately.
+Votes shall be recorded by secret ballot, counted by the President and the Vice President independently. No others will be permitted to view individual votes. Once the votes have been tallied by the President and Vice President, they will check if they have independently counted the same number of votes for each candidate. If a discrepancy occurs, they will count again and check with each other until they conclude the same totals or decide to move to revote from fraud. Once the votes are validated in this fashion, the candidate with the majority of votes is declared the winner. Should no candidate reach a majority of total votes, the candidate with the least votes is removed from consideration, and a revote with the remaining candidates will be held immediately.
 If fraud in voting is suspected by any member, they can make a motion to revote with a brief explanation for their suspicion. If the Vice President and President concur, a public revote will occur for the suspected office(s).
 
 ## XV) Executive Board Powers
 
 Each officer of Pitt CSC also retains membership on Pitt CSC Executive Board. Each member of the board must act as a representative of Pitt CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of Pitt CSC, and are responsible for assisting other officers in the fulfillment of their individual roles.
 
-## XVI) Supervisors
+## XVI) Supervisors, Initiative Leads
 
-A Supervisor is an officer position created by the Executive Board at the request of the Director of Initiatives. Supervisors cannot be members of the Executive Board, and are created and disolved through a simple majority vote of the Executive Board. They may perform annual, ad-hoc functions (EX: SteelHacks Director, Recruitment Lead, managers for club projects, etc.) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer, which need consistent management (EX: Social Media Manager, SCI Ambassador, Alumni Outreach Director, etc.). These Supervisors are to be primarily managed and assisted by the Vice President, though other officers may help or work with them when deemed expedient.
+A Supervisor is an officer position created by the Executive Board at the request of the Director of Initiatives. Supervisors cannot be members of the Executive Board, and are created and dissolved through a simple majority vote of the Executive Board. They may perform annual, ad-hoc functions (EX: SteelHacks Director, Recruitment Lead, managers for club projects, etc.) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer, which need consistent management (EX: Social Media Manager, SCI Ambassador, Alumni Outreach Director, etc.). These Supervisors are to be primarily managed and assisted by the Vice President and Director of Initiatives, though other officers may help or work with them when deemed expedient. Supervisor positions are named "X Initiative Lead" where X refers to the project under supervision. +[INITIATIVE_LEAD]
 
 ## XVII) Removal of Officers
 
-If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a two thirds majority vote.
+If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a 5/7 majority vote. +[QUOTA_CHANGE]
+
+If 40 active club members self organize a petition supporting the removal of an officer, the board must vote on the removal of the officer within five business days from submission by simple majority vote. Petitions are to be submitted to the Vice President. The Vice President must call the vote, and publish the results of the vote within 24 hours of when all votes are submitted. If the Vice President fails to fulfill these duties, he or she shall be removed by default. +[PETITION_CLAUSE]
+
+If an executive board member fails to vote or there is a vacancy, their vote will default in favor of removal. As a penalty for failing to vote, for the rest of the absent officer's term, they may be removed at any time by simple majority. +[VACANCY_CLAUSE]
+
+Votes may be made asynchronously. If an officer votes to remove themselves, it is treated as a resignation. +[VOTING_CLARIFICATIONS]
 
 ## XVIII) Vacancies
 
-Vacancies will be filled by appointment from the board.  The replacement will hold the position until elections for the subsequent term take place.  Each position **must** be filled, however a current officer is not permitted to hold multiple positions.
+Vacancies will be filled by appointment from the board. The replacement will hold the position until elections for the subsequent term take place. Each position **must** be filled, however a current officer is not permitted to hold multiple positions.
+
 At the discretion of the board, a special election can be called to fill a vacancy. The procedures of a special election are to be determined by the board to ensure a swift filling of the vacancy while maintaining a fair election.
+
+If the Director of Initiatives' position is vacant, the new Director must be elected from existing Supervisors. All executive board members and Supervisors may vote in this election, which otherwise follows election procedures as defined in Section XIV. If a new Director cannot be elected from existing Supervisors, the vacancy will be filled by special election. +[DIRECTOR_OF_INITIATIVES_CLAUSE]
 
 ## XIX) Meetings
 
-Meetings will be held once a week in order to provide time for networking and group project work.  Additionally, there will be biweekly presentations given about topics that are relevant to the education to the members of the group.  At least one quarter of the group must be present to officially conduct the business of Pitt CSC.  Special meetings can be called by the President or Vice President, given that the general body is given at least 5 days notice of the change.  The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for computer science students, and discussing current events in the technological community.
+Meetings will be held once a week in order to provide time for networking and group project work. Additionally, there will be biweekly presentations given about topics that are relevant to the education to the members of the group. Special meetings can be called by the President or Vice President, given that the general body is given at least 5 days notice of the change. The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for computer science students, and discussing current events in the technological community.
 
 ## XX) Data
 
@@ -148,7 +157,7 @@ In order for the officers to understand the state and effectiveness of Pitt CSC 
 
 ### What is collected
 
-Data collection is limited to attendence of meetings, activity in Pitt CSC group chat (only the time when a message is sent but not the contents of that message), activity on Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, images and video for Pitt CSC social media, and from events.
+Data collection is limited to attendance of meetings, activity in Pitt CSC Discord, activity on Pitt CSC Github organization (including commits and the impact of those changes), or details about a member from setting up with Pitt CSC attendance system and use of said system, surveys, check-in or sign-up sheets, Pitt CSC newsletter, digital communications, images and video for Pitt CSC social media, and from events. +[MESSAGE_COLLECTION]
 
 ### What is the data used for
 
@@ -160,7 +169,7 @@ No data on a individual member, except for any information that a member has con
 
 ### How transparent is Pitt CSC
 
-The Executive Board and Pitt CSC will be direct as to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provides outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. The tools used to analyze and collect the data will be public with all it's source code publicly on Pitt CSC GitHub organization page.
+The Executive Board and Pitt CSC will be direct as to what is collected and the purpose behind collecting data. Pitt CSC will gladly reveal all general statistics Pitt CSC provides outside organizations. Pitt CSC will not reveal an individual member's data, except to the individual directly. Non-Commercial tools used to analyze and collect data will be made public with all of it's source code publicly on Pitt CSC GitHub organization page. +[NON_COMMERCIAL_CLAUSE]
 
 ### Issues
 
@@ -178,10 +187,10 @@ In compliance with the Publications Code for Student Organizations, all the publ
 
 ## XXIII) Advisor
 
-The group advisor shall be selected by the board by a simple majority vote.  In the event of the need arising to remove an advisor, a simple majority must approve the decision.
+The group advisor shall be selected by the board by a simple majority vote. In the event of the need arising to remove an advisor, a simple majority must approve the decision.
 The advisor is not required to provide any particular services to Pitt CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
 
-Additionally, all former officers of Pitt CSC, only as long as they remain students, will serve as an advisory body. This old guard of Pitt CSC will be expected to provide advice to the board when sollicited. Otherwise, they may take as much interest in the affairs of Pitt CSC as any other student member.
+Additionally, all former officers of Pitt CSC, only as long as they remain students, will serve as an advisory body. This old guard of Pitt CSC will be expected to provide advice to the board when solicited. Otherwise, they may take as much interest in the affairs of Pitt CSC as any other associate member. +[USE_ASSOCIATE_TERMINOLOGY]
 
 ## XXIV) External Affiliations
 
@@ -197,10 +206,12 @@ Pitt CSC Community Partners are reciprocal relationships with organizations base
 
 ## XXV) By-Laws
 
-Pitt CSC has no additional by-laws.
+Pitt CSC officers must be present at the majority of Pitt CSC meetings and participate in at least one event (zero to offer, CSCHacks, SteelHacks, etc...) +[ATTENDANCE_CLAUSE]
+
+The President, Vice President, and Business Manager may choose to swap their roles at any time. Changes must be reported to SORC. +[SWAP_CLAUSE]
 
 ## XXVI) Amendments
 
-Amendments to this Constitution will be presented by an officer for a vote. For approval, an amendment must receive a two-thirds majority vote of approval from the board.
+Amendments to this Constitution may be presented by any active club member. For approval, an amendment must receive a 5/7 majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are presented, but their implementation, if successful, may be differed to the next semester or academic year. Amendments cannot be passed when there is a vacancy. +[NEW_AMENDMENT_CLAUSE]
 
 All constitution additions, revisions and deletions must be reported to the SORC.
