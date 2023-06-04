@@ -75,7 +75,7 @@ Pitt CSC leadership will comprise of the Executive Board whose membership will c
 3. Business Manager
 4. Director of Initiatives
 5. Events Coordinator
-6. Special Events Coordinator
+6. Special Events Organizer
 7. Public Relations and Communications Manager
 
 ## XII) Terms of Office
@@ -104,9 +104,9 @@ The Director of Initiatives will brainstorm and create new programs, activities,
 
 The Event Coordinator is responsible for planning activities run by Pitt CSC. He or she will set dates and manage a semesterly timeline and calendar and for each event will confirm location, food, speakers, promotional material, etc. In accomplishing this task, the he or she must coordinate with other officers.
 
-### Special Event Coordinator
+### Special Event Organizer
 
-The Special Events Coordinator is in charge of planning special events - especially events in collaboration with other organizations. This means student orgs such as WiCS/KTP/RAS, the School of Computing and Information, and communication with any other body within the University. This includes coordinating interesting speakers and incentives for hackathon events.
+The Special Events Organizer is in charge of planning special events - especially events in collaboration with other organizations. This means student orgs such as WiCS/KTP/RAS, the School of Computing and Information, and communication with any other body within the University. This includes coordinating interesting speakers and incentives for hackathon events.
 
 ### Public Relations and Communications Manager
 
