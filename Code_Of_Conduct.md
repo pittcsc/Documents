@@ -1,4 +1,4 @@
-# Pitt CSC Code of Conduct
+# CSC Code of Conduct
 
 version: v1.2
 -------------
@@ -42,7 +42,7 @@ Our open-source community prioritizes marginalized people's safety over privileg
 
 ## Advertisements
 
-Advertisements are **not** to be posted in the Pitt CSC Discord server without prior officer approval. Advertisements may be deleted at the discretion of the Pitt CSC officers.
+Advertisements are **not** to be posted in the CSC Discord server without prior officer approval. Advertisements may be deleted at the discretion of the CSC officers.
 
 ### Diversity Statement
 
