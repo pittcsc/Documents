@@ -40,6 +40,14 @@ Our open-source community prioritizes marginalized people's safety over privileg
 - Refusal to explain or debate social justice concepts
 - Criticizing racist, sexist, cisgenderist, or otherwise oppressive behavior or assumptions
 
+## Discord
+
+With participation in our club's discord comes the responsibility to uphold our club's standards within that community. Club officers have the perogative to suspend club members from the Discord if their conduct on the Discord is in violation with the above guidelines. Discipline will be administered according to the following structure:
+
+- First offense: Written warning via Discord DM and/or email
+- Second offense: One month suspension from the Discord community
+- Third offense: Indefinite suspension from the Discord community
+
 ## Advertisements
 
 Advertisements are **not** to be posted in the CSC Discord server without prior officer approval. Advertisements may be deleted at the discretion of the CSC officers.
