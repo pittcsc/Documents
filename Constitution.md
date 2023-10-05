@@ -189,6 +189,9 @@ Current officers are the only individuals permitted access to the CSC Google Dri
 
 ### GitHub Organization
 
+Upon changing officer roles, the outgoing president should grant the new president ownership rights to the CSC GitHub organization. Incoming officers should report their GitHub accounts to the incoming president, who will then grant them ownership permissions to the GitHub organization. Outgoing officers' access permissions should be downgraded from "owner" to "member".
+
+Current officers are the only individuals permitted ownership access to the CSC GitHub organization. No conditional exemptions can be made to this rule.
 
 ## XXIV) Advisor
 
