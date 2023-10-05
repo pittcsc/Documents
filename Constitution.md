@@ -179,14 +179,25 @@ CSC shall fully comply with the University's fundraising policies and procedures
 
 In compliance with the Publications Code for Student Organizations, all the publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain for expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process or the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a certified student organization at the University.
 
-## XXIII) Advisor
+## XXIII) Club File Access
+
+### Google Drive Folder
+
+Upon changing officer roles, the outgoing president should grant the new president ownership rights to the CSC Google Drive folder. Incoming officers should report their google accounts to the incoming president, who will then grant them access permissions to the google drive. Outgoing officers' access will be revoked.
+
+Current officers are the only individuals permitted access to the CSC Google Drive folder. Conditional access to individual documents or sub-folders may be administered at officer discretion.
+
+### GitHub Organization
+
+
+## XXIV) Advisor
 
 The group advisor shall be selected by the board by a simple majority vote. In the event that an advisor must be removed, a simple majority must approve the decision.
 The advisor is not required to provide any particular services to CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
 
 Additionally, all former officers of CSC, so long as they remain Pitt students, will serve as an advisory body. This old guard of CSC will be expected to provide advice to the board when solicited. Otherwise, they may take as much interest in the affairs of CSC as any other associate member.
 
-## XXIV) External Affiliations
+## XXV) External Affiliations
 
 CSC has two forms of external affiliation: Sponsors and Community Partners.
 
@@ -196,13 +207,13 @@ CSC Sponsors support CSC and its activities financially. Sponsors may be invited
 ### Community Partner
 CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. CSC recognizes Community Partners for continued aid in organizing co-hosted programs, encouraging interactions between organization members, and developing a strong community within CSC, the University, and the City of Pittsburgh.
 
-## XXV) By-Laws
+## XXVI) By-Laws
 
 CSC officers must be present at the majority of CSC meetings and participate in at least one event (e.g., Zero to Offer, CSC Hacks, or SteelHacks).
 
 The President, Vice President, and Business Manager may choose to swap their roles at any time. Such changes must be reported to SORC.
 
-## XXVI) Amendments
+## XXVII) Amendments
 
 Amendments to this Constitution may be submitted by any active club member. For approval, an amendment must receive a two-thirds majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are submitted, but their implementation, if successful, may be deferred to the next semester or academic year. Amendments cannot be passed when there is a vacancy.
 
