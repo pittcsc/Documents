@@ -202,7 +202,7 @@ CSC officers must be present at the majority of CSC meetings and participate in 
 
 The President, Vice President, and Business Manager may choose to swap their roles at any time. Such changes must be reported to SORC.
 
-Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct at the discresion of the officers. CSC officers may suspended, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
+Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct at the discresion of the officers. CSC officers may suspend, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
 
 ## XXVI) Amendments
 
