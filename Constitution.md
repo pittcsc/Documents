@@ -51,13 +51,13 @@ CSC aspires to act as a guide and mentor for its members as they develop necessa
 ## VIII) Membership Procedures
 
 1. Recruitment: Recruitment for CSC will occur throughout the year, though primarily at the beginning of the Fall and Spring semesters.
-2. Application and Selection: As an optional co-curricular club, CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in group activities.  Regular participation is defined as making a commitment to contribute to group projects on a weekly basis and making oneself available to come to meetings every week.
-3. Inactive members: Members of CSC who fail to attend to contribute to CSC activities within a period of an academic year will be presumed inactive and removed from the CSC roster.  Students that are inactive for a semester will not be placed on a project team for the following semester.
+2. Application and Selection: As an optional co-curricular club, CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in CSC activities.
+3. Inactive members: Members of CSC who fail to attend or contribute to CSC activities within a period of an academic year will be presumed inactive and removed from the CSC roster.
 4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to CSC activities within a semester of doing so.
 
 ## IX) Voting Privileges
 
-Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges, a member must have attended or contributed to a CSC activity within two weeks of the vote and have been an active project team member for the duration of the semester.
+Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges a member must have attended or contributed to 2 CSC events, excluding recruiting and voting events, between the Fall and Spring semesters.
 
 ## X) Associate Membership
 
@@ -107,13 +107,15 @@ The Public Relations and Communications Manager is responsible for all communica
 
 Elections will be held in each Spring semester to determine the officers for the following Fall and Spring semesters.
 
+Eligibility for Officer positions follows the rules laid out in section IX. All current officers are required to run for re-election like any other candidate.
+
 Only freshmen and sophomores are permitted to run for Event Coordinator. Should no freshmen or sophomores declare the intent to run for any of these positions by the deadline to declare intent to run, then any member will be permitted to run.
 
 The President will preside over elections, announcing them to the general body at least one month prior to the election date via any and all available means of communication with the general body. Any candidate must inform the President of their intent to run at least one week before the scheduled date of the election. Prior to the election day, the President will confirm that all candidates are CSC members according to the requirements set out in this Constitution. Following confirmation, all valid candidates will be announced by the President to the general body before the election date.
 
-On the day of the election, a general body meeting will be held. There, the President will address the general body and commence elections. Each office will be elected before the next in the following order: President, Vice President, Business Manager, Event Coordinator. For each office, all candidates will be given at most five minutes to speak to the general body, followed by another five minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed for that office.
+Leading up to the first day of the election, or on the first day of the election itself, a general body meeting will be held. There, the President will address the general body and commence elections. For each officer position, all candidates will be given at most five minutes to speak to the general body, followed by another five minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed. Voting may proceed for a predetermined period. Voting may be administered via online service.
 
-Votes shall be recorded by secret ballot, and votes shall be counted by the President and the Vice President independently. No others will be permitted to view individual votes. Once the votes have been tallied by the President and Vice President, they will check if they have independently counted the same number of votes for each candidate. If a discrepancy occurs, they will count again and check with each other until they conclude the same totals or decide on a motion to re-vote on account of suspicion of fraud. Once the votes are validated in this fashion, the candidate with the majority of votes is declared the winner. Should no candidate reach a majority of total votes, the candidate with the least votes is removed from consideration, and a re-vote with the remaining candidates shall be held immediately.
+Votes shall be recorded by secret ballot, and votes shall be counted by the President and the Vice President independently. Once the votes have been tallied by the President and Vice President, they will check if they have independently counted the same number of votes for each candidate. If a discrepancy occurs, they will count again and check with each other until they conclude the same totals or decide on a motion to re-vote on account of suspicion of fraud. Once the votes are validated in this fashion, the candidate with the majority of votes is declared the winner. Should no candidate reach a majority of total votes, the candidate with the least votes is removed from consideration, and a re-vote with the remaining candidates shall be held immediately.
 If fraud in voting is suspected by any member, they can make a motion to re-vote with a brief explanation for their suspicion. If the Vice President and President concur, a public re-vote shall be held for the suspected office(s).
 
 ## XV) Executive Board Powers
@@ -144,24 +146,24 @@ Vacancies will be filled by appointment from the board. The replacement will hol
 
 At the discretion of the board, a special election can be called to fill a vacancy. The procedures of a special election are to be determined by the board to ensure a swift filling of the vacancy while maintaining a fair election.
 
-If the position of Director of Initiatives is vacant, the new Director must be elected from the existing Supervisors. All executive board members and Supervisors may vote in this election, which otherwise follows election procedures as defined in Section XIV. If a new Director cannot be elected from existing Supervisors, the vacancy shall be filled by special election.
+If the position of Director of Initiatives is vacant, the new Director must be elected from the existing Supervisors. All executive board members and Supervisors may vote in this election. The winner is chosen via simple majority. Re-votes will be held to eliminate candidates until a winner is chosen unless no consensus can be reached. If no consensus can be reached or a new Director cannot be elected from existing Supervisors for whatever reason, the vacancy shall be filled by special election.
 
 ## XIX) Meetings
 
-Meetings will be held once a week in order to provide time for networking and group project work. Additionally, there will be presentations given every two weeks about topics that are relevant to the education to the members of the group. Special meetings can be called by the President or Vice President, given that the general body is given at least five days' notice of the change. The President will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for CS students, and discussing current events in the technological community.
+Meetings will normally be held twice a week at usual dates and times in order to provide time for CSC activities. Special meetings can be called by the President or Vice President. The President or their designee will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for CS students, and discussing current events in the technological community.
 
 ## XX) Data
 
 In order for the officers to understand the state and effectiveness of CSC and it's members, CSC does collect certain pieces of information. All officers should be aware of what data are collected and should strive to keep the collection to a minimum and keep the data private and protected in order to uphold the privacy of CSC members.
 
 ### What is collected
-Data collection is limited to meeting attendance; activity in the CSC Discord server; activity on CSC's GitHub organization, including GitHub commits and their impacts; details about a member from setting up with and using a CSC attendance system; surveys; check-in and sign-up sheets; CSC newsletters; digital communications; images and video for CSC's social media platforms; and events.
+Data collection is limited to meeting attendance; activity in the CSC Discord server; activity on CSC's GitHub organization, including GitHub commits and their impacts; surveys; check-in and sign-up sheets; CSC newsletters; digital communications; images and video for CSC's social media platforms; and events, including collaborations with other organizations. Data collection also includes auxiliary information gained via systems used to administer our programs, including but not limited to: survey systems, bots, and website telemetry tools.
 
 ### What is the data used for
 The information is used to evaluate how effective a particular event is, how attendance changes over the course of a semester, etc. The activity of CSC members helps the officers determine whether an individual is a member of CSC based on the definition in Section VII, to whom to provide incentives for being a member, and in special cases giving a higher priority to a member who has higher engagement with CSC to attend limited-seated events. In addition, we use it to encourage sponsors to sponsor CSC through giving accurate general statistics about the organization.
 
 ### What data is given out
-No data on a individual member, except for any information that a member has consented for the officers to give out, will be given to any organization outside of CSC. CSC only provides outside organizations with general statistics of CSC (e.g., average attendance and demographics of members).
+No data on a individual member, except for any information that a member has consented for the officers to give out, will be given to any organization outside of CSC unless CSC is in active collaboration with that organization or conduct procedures necessitates. CSC only provides outside organizations with general statistics of CSC (e.g., average attendance and demographics of members).
 
 ### How transparent is CSC
 The Executive Board and CSC will be transparent as to what is collected and the purpose behind collecting data. CSC will gladly reveal all general statistics that it provides to outside organizations. CSC will not reveal an individual member's data except to the individual directly. Non-commercial tools used to analyze and collect data will be made public with all of its source code available on CSC's GitHub organization page.
@@ -198,14 +200,87 @@ CSC Community Partners are reciprocal relationships with organizations based in 
 
 ## XXV) By-Laws
 
-CSC officers must be present at the majority of CSC meetings and participate in at least one event (e.g., Zero to Offer, CSC Hacks, or SteelHacks).
+CSC officers must be present at the majority of CSC meetings or otherwise significantly contribute to the majority of CSC meetings.
 
 The President, Vice President, and Business Manager may choose to swap their roles at any time. Such changes must be reported to SORC.
 
-Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct at the discresion of the officers. CSC officers may suspend, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
+Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct at the discretion of the officers. CSC officers may suspend, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
 
 ## XXVI) Amendments
 
-Amendments to this Constitution may be submitted by any active club member. For approval, an amendment must receive a two-thirds majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are submitted, but their implementation, if successful, may be deferred to the next semester or academic year. Amendments cannot be passed when there is a vacancy.
+Amendments to this Constitution may be submitted by any active club member. For approval, an amendment must receive a two-thirds majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are submitted, but their implementation, if successful, may be deferred to the next semester or academic year. Amendments cannot be passed when there is a vacancy unless inability to pass the amendment would cause a disruption in the registration status of the organization
 
-All constitution additions, revisions, and deletions must be reported to SORC.
+All constitution additions, revisions, and deletions must be reported to SORC. Constitutional changes are not official until approved by SORC.
+
+# CSC Code of Conduct
+
+version: v1.2
+-------------
+This code of conduct outlines our expectations for participants within the **Computer Science Club at Pitt** community as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+
+Our open-source community strives to:
+
+* **Be friendly and patient.**
+* **Be welcoming**: We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, socioeconomic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+* **Be considerate**: Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a worldwide community, so you might not be communicating in someone else's primary language.
+* **Be respectful**:  Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one.
+* **Be careful in the words that we choose**: We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable.
+* **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+
+## Definitions
+
+Harassment includes, but is not limited to:
+
+- Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neurotypicality/neurodiversity, physical appearance, body size, race, age, regional discrimination, political affiliation, or religious belief
+- Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
+- Deliberate misgendering. This includes deadnaming (referring to a transgender individual by a name they used prior to transitioning) or persistently using a pronoun that does not correctly reflect a person's gender identity. You must address people by the name they give you when not addressing them by their username or handle.
+- Physical contact and simulated physical contact (e.g., textual descriptions like "\*hug\*" or "\*backrub\*") without consent or after a request to stop
+- Threats of violence, both physical and psychological
+- Incitement of violence towards any individual, including encouraging a person to commit suicide or engage in self-harm
+- Deliberate intimidation
+- Stalking or following
+- Harassing photography or recording, including logging online activity for harassment purposes
+- Sustained disruption of discussion
+- Unwelcome sexual attention, including gratuitous or off-topic sexual images or behavior
+- Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+- Continued one-on-one communication after requests to cease
+- Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect others from intentional abuse
+- Publication of non-harassing private communication
+
+Our community prioritizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
+
+- 'Reverse' -isms, including 'reverse racism', 'reverse sexism', and 'cisphobia'
+- Reasonable communication of boundaries, such as "leave me alone", "go away", or "I'm not discussing this with you"
+- Refusal to explain or debate social justice concepts
+- Criticizing racist, sexist, cisgenderist, or otherwise oppressive behavior or assumptions
+
+## Advertisements
+
+Advertisements are **not** to be posted in the CSC Discord server without prior officer approval. Advertisements may be deleted at the discretion of the CSC officers.
+
+### Diversity Statement
+
+We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.
+
+Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political belief, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
+
+### Reporting Issues
+
+If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via **pittcsc@gmail.com**. All reports will be handled with discretion. In your report, please include:
+
+- Your contact information
+- Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g., a mailing list archive, public IRC logger, email conversation, or private/direct messages on social media), please include a link.
+- Any additional information that may be helpful
+
+After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+
+### Attribution & Acknowledgements
+
+We all stand on the shoulders of giants across many open source communities. We'd like to thank the communities and projects that established code of conducts and diversity statements as our inspiration:
+
+* [Django](https://www.djangoproject.com/conduct/reporting/)
+* [Python](https://www.python.org/community/diversity/)
+* [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
+* [Contributor Covenant](http://contributor-covenant.org/)
+* [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
+* [Citizen Code of Conduct](http://citizencodeofconduct.org/)
