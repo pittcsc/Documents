@@ -57,7 +57,7 @@ CSC aspires to act as a guide and mentor for its members as they develop necessa
 
 ## IX) Voting Privileges
 
-Voting privileges are limited to currently enrolled Pitt student members in good standing with the organization. To maintain voting privileges a member must have attended or contributed to 2 CSC events, excluding recruiting and voting events, between the Fall and Spring semesters.
+Voting privileges are limited to active members who are currently enrolled at Pitt and in good standing with the organization.
 
 ## X) Associate Membership
 
@@ -107,13 +107,13 @@ The Public Relations and Communications Manager is responsible for all communica
 
 Elections will be held in each Spring semester to determine the officers for the following Fall and Spring semesters.
 
-Eligibility for Officer positions follows the rules laid out in section IX. All current officers are required to run for re-election like any other candidate.
+Eligibility for Officer positions is equivalent to eligibility for voting as laid out in section IX with the additional constraint that you may not run for a term in which you will not be an enrolled student at Pitt. All current officers are required to run for re-election like any other candidate.
 
 Only freshmen and sophomores are permitted to run for Event Coordinator. Should no freshmen or sophomores declare the intent to run for any of these positions by the deadline to declare intent to run, then any member will be permitted to run.
 
-The President will preside over elections, announcing them to the general body at least one month prior to the election date via any and all available means of communication with the general body. Any candidate must inform the President of their intent to run at least one week before the scheduled date of the election. Prior to the election day, the President will confirm that all candidates are CSC members according to the requirements set out in this Constitution. Following confirmation, all valid candidates will be announced by the President to the general body before the election date.
+The President will preside over elections, announcing them to the general body at least one month prior to the election date via any and all available means of communication with the general body. Any candidate must inform the President of their intent to run at least one week before the scheduled date of the election. Prior to the election day, the President will confirm that all candidates are eligible according to the requirements set out in this Constitution. Following confirmation, all valid candidates will be announced by the President to the general body before the election date.
 
-Leading up to the first day of the election, or on the first day of the election itself, a general body meeting will be held. There, the President will address the general body and commence elections. For each officer position, all candidates will be given at most five minutes to speak to the general body, followed by another five minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed. Voting may proceed for a predetermined period. Voting may be administered via online service.
+Leading up to the first day of the election, or on the first day of the election itself, a general body meeting will be held. There, the President will address the general body and commence elections. For each officer position, all candidates will be given at most five minutes to speak to the general body, followed by another five minutes for the members to ask questions. After all candidates have gone through this process for an office, voting shall proceed. Voting may proceed for a predetermined period. Voting may be administered via online service, with identity verification.
 
 Votes shall be recorded by secret ballot, and votes shall be counted by the President and the Vice President independently. Once the votes have been tallied by the President and Vice President, they will check if they have independently counted the same number of votes for each candidate. If a discrepancy occurs, they will count again and check with each other until they conclude the same totals or decide on a motion to re-vote on account of suspicion of fraud. Once the votes are validated in this fashion, the candidate with the majority of votes is declared the winner. Should no candidate reach a majority of total votes, the candidate with the least votes is removed from consideration, and a re-vote with the remaining candidates shall be held immediately.
 If fraud in voting is suspected by any member, they can make a motion to re-vote with a brief explanation for their suspicion. If the Vice President and President concur, a public re-vote shall be held for the suspected office(s).
