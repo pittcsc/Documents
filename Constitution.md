@@ -54,6 +54,7 @@ CSC aspires to act as a guide and mentor for its members as they develop necessa
 2. Application and Selection: As an optional co-curricular club, CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in CSC activities.
 3. Inactive members: Members of CSC who fail to attend or contribute to CSC activities within a period of an academic year will be presumed inactive and removed from the CSC roster.
 4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to CSC activities within a semester of doing so.
+5. Removal of members, awards, and honorifics: Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct at the discretion of the officers. CSC officers may suspend, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
 
 ## IX) Voting Privileges
 
@@ -203,8 +204,6 @@ CSC Community Partners are reciprocal relationships with organizations based in 
 CSC officers must be present at the majority of CSC meetings or otherwise significantly contribute to the majority of CSC meetings.
 
 The President, Vice President, and Business Manager may choose to swap their roles at any time. Such changes must be reported to SORC.
-
-Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct at the discretion of the officers. CSC officers may suspend, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
 
 ## XXVI) Amendments
 
