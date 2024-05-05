@@ -74,7 +74,7 @@ CSC leadership will be composed of the Executive Board whose membership will con
 3. Business Manager
 4. Director of Initiatives
 5. Events Coordinator
-6. Special Events Organizer
+6. Sponsorship Coordinator
 7. Public Relations and Communications Manager
 
 ## XII) Terms of Office
@@ -98,8 +98,8 @@ The Director of Initiatives will brainstorm and create new programs, activities,
 ### Events Coordinator
 The Events Coordinator is responsible for planning activities run by CSC. They will set dates and manage a semesterly timeline and calendar and for each event will confirm location, food, speakers, promotional material, etc. In accomplishing this task, they must coordinate with other officers.
 
-### Special Events Organizer
-The Special Events Organizer is in charge of planning special events—especially events in collaboration with other organizations. This means student organizations such as Women in Computer Science (WiCS), Kappa Theta Pi (KTP), and the Robotics and Automation Society (RAS); the School of Computing and Information (SCI); and communication with any other body within the University. This includes coordinating interesting speakers and incentives for hackathon events.
+### Sponsorship Coordinator
+The sponsorship coordinator should be the main individual to plan, organize and execute our club’s corporate sponsorship plan. They should maintain the sponsor mailing list and send periodic and timely emails to companies to gauge their willingness to sponsor. 
 
 ### Public Relations and Communications Manager
 The Public Relations and Communications Manager is responsible for all communication and interactions with persons or organizations within the University. This includes student organizations, SCI, and alumni of CSC. The Public Relations and Communications Manager is also responsible for CSC's public presence and brand. They will run all social media platforms, send email newsletters, and create promotional material and external advertisements.
