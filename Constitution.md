@@ -46,7 +46,8 @@ CSC aspires to act as a guide and mentor for its members as they develop necessa
 4. No hazing or illegal discriminatory criteria for membership, including those listed in the University's non-discrimination policy, shall be used as a condition of membership in the organization. These factors include race, color, religion, national origin, ancestry, sex, age, marital status, familial status, sexual orientation, gender identity and expression, genetic information, disability, or status as a veteran.
 5. Membership is not limited to students majoring in CS.
 6. There are no financial requirements for membership.
-7. Membership in CSC is conditional on active participation in CSC community. This may be achieved through attendance at meetings and events, communication on the CSC Discord server and social media platforms, and working on CSC projects.
+7. Membership in CSC is conditional on active participation in CSC community. This may be achieved through attendance at meetings and events, communication on social media platforms, and working on CSC projects.
+
 
 ## VIII) Membership Procedures
 
