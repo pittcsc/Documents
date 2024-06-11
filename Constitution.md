@@ -43,9 +43,10 @@ CSC aspires to act as a guide and mentor for its members as they develop necessa
 1. Membership is open to currently enrolled Pitt students as defined herein.
 2. All members must accept and comply with all of the requirements and limitations of certification as a condition of membership.
 3. Membership in CSC is voluntary and all risk of personal injury, property damage or other losses that occur incidental to membership or participation in activities are assumed solely by the student organization and/or individual member(s) or non-member participant(s). Accordingly, the University, its officers, and its agents shall not be responsible or liable for any claims or causes of action for damage or loss of property or for personal injury of any kind or nature that may arise out of or are incidental to the conduct of any organization's activities or that of any individual's participation in any group-related activity. It is further understood and agreed that it is the responsibility of the officers of the organization to assure that all of the organization's members and non-member participants in all activities sponsored by CSC are fully informed and advised of this ASSUMPTION OF RISK, and in the event any individual member or participant should express or indicate non-acceptance, the organization's officer shall forbid participation and/or membership of such individual. In regard to the organization member and non-member participant ASSUMPTION OF RISK, CSC acknowledges that the University recommends that the organization members and non-member participants make every effort to arrange for the acquisition of liability insurance sufficient to protect all participants against those risks being assumed. For sport-related organizations, the University recommends that each individual have insurance sufficient to allow for any risks by participation, accident or by deficiencies in physical health.
-4. No illegal discriminatory criteria may be used as criteria for membership including those listed in the University of Pittsburgh’s non-discrimination policy.  These factors include race, color, religion, national origin, ancestry, sex, age, marital status, familial status, sexual orientation, gender identity and expression, genetic information, disability, or status as a veteran.  All groups, except those exempt by law, must permit male and female membership.  Sport clubs involving physical contact or in which participation is based on competitive skill may limit participation in competition to one sex; provided that, for any for any such sport club engaged in a non-contact sport, unless there is a sport club available for members of the opposite sex, the club must permit try-outs for each sex. Membership can be limited by factors unrelated to status or beliefs and which are also not illegal. Membership can be limited by school, college, department, major and grades, etc. No hazing or illegal discrimination will be used as a condition of membership in the organization.
+4. No illegal discriminatory criteria may be used as criteria for membership including those listed in the University of Pittsburgh’s non-discrimination policy.  These factors include race, color, religion, national origin, ancestry, sex, age, marital status, familial status, sexual orientation, gender identity and expression, genetic information, disability, or status as a veteran.  All groups, except those exempt by law, must permit male and female membership.  Sport clubs involving physical contact or in which participation is based on competitive skill may limit participation in competition to one sex; provided that, for any for any such sport club engaged in a non-contact sport, unless there is a sport club available for members of the opposite sex, the club must permit try-outs for each sex. Membership can be limited by factors unrelated to status or beliefs and which are also not illegal. Membership can be limited by school, college, department, major and grades, etc. No hazing or illegal discrimination will be used as a condition of membership in the organization. 
 5. Membership in CSC is conditional on active participation in CSC community. This may be achieved through attendance at meetings and events, communication on social media platforms, and working on CSC projects. Membership is not limited to students majoring in CS.
 6. There are no financial requirements for membership.
+
 
 ## VIII) Membership Procedures
 
@@ -98,7 +99,7 @@ The Director of Initiatives will brainstorm and create new programs, activities,
 The Events Coordinator is responsible for planning activities run by CSC. They will set dates and manage a semesterly timeline and calendar and for each event will confirm location, food, speakers, promotional material, etc. In accomplishing this task, they must coordinate with other officers.
 
 ### Sponsorship Coordinator
-The sponsorship coordinator should be the main individual to plan, organize and execute our club’s corporate sponsorship plan. They should maintain the sponsor mailing list and send periodic and timely emails to companies to gauge their willingness to sponsor.
+The sponsorship coordinator should be the main individual to plan, organize and execute our club’s corporate sponsorship plan. They should maintain the sponsor mailing list and send periodic and timely emails to companies to gauge their willingness to sponsor. 
 
 ### Public Relations and Communications Manager
 The Public Relations and Communications Manager is responsible for all communication and interactions with persons or organizations within the University. This includes student organizations, SCI, and alumni of CSC. The Public Relations and Communications Manager is also responsible for CSC's public presence and brand. They will run all social media platforms, send email newsletters, and create promotional material and external advertisements.
@@ -121,17 +122,16 @@ Election Meeting Procedure: Leading up to the election day, or on the election d
 
 ## XV) Voting Powers of Officers
 
-Officers retain voting rights on all major decisions of the organization. The President only votes in the case of a tie to ensure fair and unbiased decision-making.
+Officers retain voting rights on all major decisions of the organization.
 
-## XVI) Executive Board Powers
+## XV) Executive Board Powers
 
 Each officer of CSC also retains membership on the CSC Executive Board. Each member of the board must act as a representative of CSC and ensure its fair governance. Members of the board each have a vote on major issues and initiatives of CSC, and are responsible for assisting other officers in the fulfillment of their individual roles.
 
-## XVII) Supervisors, Initiative Leads
-
 A Supervisor is an officer position created by the Executive Board at the request of the Director of Initiatives. Supervisors cannot be members of the Executive Board, and are created and dissolved through a simple majority vote of the Executive Board. They may perform annual, ad hoc functions (e.g., SteelHacks Director, Recruitment Lead, or managers for club projects) or they may be created to assist or lead tasks not explicitly assigned to a constitutionally defined officer and which need consistent management (e.g., Social Media Manager, SCI Ambassador, or Alumni Outreach Director). These Supervisors are to be primarily managed and assisted by the Vice President and Director of Initiatives, though other officers may help or work with them when deemed expedient. Supervisor positions are named "X Initiative Lead" where X refers to the project under supervision.
 
-## XVIII) Removal of Officers
+
+## XVI) Removal of Officers
 
 If the board decides that a particular officer is not fulfilling their duties as set out above and/or decided upon otherwise, the board can move to replace that officer by a two-thirds majority vote.
 
@@ -145,7 +145,7 @@ If there are more than two vacancies within the officer board, there must be no 
 
 The board must have at least three officers; therefore, no officers may be removed if the board only consists of three members.
 
-## XIX) Vacancies
+## XVII) Vacancies
 
 Vacancies will be filled by appointment from the board. The replacement will hold the position until elections for the subsequent term take place. Each position **must** be filled, though a current officer is not permitted to hold multiple positions.
 
@@ -153,11 +153,43 @@ At the discretion of the board, a special election can be called to fill a vacan
 
 If the position of Director of Initiatives is vacant, the new Director must be elected from the existing Supervisors. All executive board members and Supervisors may vote in this election. The winner is chosen via simple majority. Re-votes will be held to eliminate candidates until a winner is chosen unless no consensus can be reached. If no consensus can be reached or a new Director cannot be elected from existing Supervisors for whatever reason, the vacancy shall be filled by special election.
 
-## XX) Meetings
+## XIX) Meetings
 
 Meetings will normally be held twice a week at usual dates and times in order to provide time for CSC activities. Special meetings can be called by the President or Vice President. The President or their designee will take on the responsibilities of the Chairperson, and will be responsible for running group meetings, including but not limited to introducing and interviewing guests, initiating group work and networking time, giving information about upcoming opportunities for CS students, and discussing current events in the technological community.
 
-## XXI) Data
+
+## XX) Finances
+
+Group funds will be spent to provide enhancement to CSC activities, including but not limited to helping to offset the costs of attending hackathons, providing refreshments during events, and paying for software subscriptions.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from the University of Pittsburgh Student Government Board (SGB).
+
+CSC shall fully comply with the University's fundraising policies and procedures for certified student organizations.
+
+## XXI) Publications Code
+
+In compliance with the Publications Code for Student Organizations, all publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain from expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process of the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a registered student organization at the University of Pittsburgh. 
+
+## XXII) Advisor
+
+The group advisor shall be selected by the board by a simple majority vote. In the event that an advisor must be removed, a simple majority must approve the decision.
+The advisor is not required to provide any particular services to CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
+
+Additionally, all former officers of CSC, so long as they remain Pitt students, will serve as an advisory body. This old guard of CSC will be expected to provide advice to the board when solicited. Otherwise, they may take as much interest in the affairs of CSC as any other associate member.
+
+## XXIII) External Affiliations
+
+CSC has two forms of external affiliation: Sponsors and Community Partners.
+
+### Sponsor
+CSC Sponsors support CSC and its activities financially. Sponsors may be invited to events and programs, networking opportunities, limited access to CSC data, and advertisement and exposure within CSC.
+
+### Community Partner
+CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. CSC recognizes Community Partners for continued aid in organizing co-hosted programs, encouraging interactions between organization members, and developing a strong community within CSC, the University, and the City of Pittsburgh.
+
+## XXIV) By-Laws
+
+CSC officers must be present at the majority of CSC meetings or otherwise significantly contribute to the majority of CSC meetings.
+
+The President, Vice President, and Business Manager may choose to swap their roles at any time. Such changes must be reported to SORC.
 
 In order for the officers to understand the state and effectiveness of CSC and it's members, CSC does collect certain pieces of information. All officers should be aware of what data are collected and should strive to keep the collection to a minimum and keep the data private and protected in order to uphold the privacy of CSC members.
 
@@ -176,44 +208,11 @@ The Executive Board and CSC will be transparent as to what is collected and the 
 ### Issues
 Any issues with CSC policy on data should be brought up with any officers. Any member is free to appeal to the Executive Board to opt out of certain data collection. Any future additions to what is collected should be discussed by the officers internally and with all the active members.
 
-## XXII) Finances
+## XXV) Amendments
 
-Group funds will be spent to provide enhancement to CSC activities, including but not limited to helping to offset the costs of attending hackathons, providing refreshments during events, and paying for software subscriptions.  All expenses must be approved by the Business Manager and President. The organization will not maintain an outside bank account if it receives funding from the University of Pittsburgh Student Government Board (SGB).
+Amendments to this Constitution may be submitted by any active club member. For approval, an amendment must receive a two-thirds majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are submitted, but their implementation, if successful, may be deferred to the next semester or academic year. Amendments cannot be passed when there is a vacancy unless inability to pass the amendment would cause a disruption in the registration status of the organization
 
-CSC shall fully comply with the University's fundraising policies and procedures for certified student organizations.
-
-## XXIII) Publications Code
-
-In compliance with the Publications Code for Student Organizations, all publications of the organization will comply with current copywriter laws, be distributed according to policies and procedures, refrain from expressions that are considered obscene or libelous according to current statute, advocate or insight the material interference or physical disruption of the educational process of the peace, order and decorum of the campus, or that advocate or insight imminent, lawless action or the violent overthrow of the government and identify the organization as publisher and specify that the group is a registered student organization at the University of Pittsburgh.
-
-## XXIV) Advisor
-
-The group advisor shall be selected by the board by a simple majority vote. In the event that an advisor must be removed, a simple majority must approve the decision.
-The advisor is not required to provide any particular services to CSC, but is encouraged to take an interest in the education of the group's members and is welcome to participate in any of the group's activities, especially in their area of technical expertise.
-
-Additionally, all former officers of CSC, so long as they remain Pitt students, will serve as an advisory body. This old guard of CSC will be expected to provide advice to the board when solicited. Otherwise, they may take as much interest in the affairs of CSC as any other associate member.
-
-## XXV) External Affiliations
-
-CSC has two forms of external affiliation: Sponsors and Community Partners.
-
-### Sponsor
-CSC Sponsors support CSC and its activities financially. Sponsors may be invited to events and programs, networking opportunities, limited access to CSC data, and advertisement and exposure within CSC.
-
-### Community Partner
-CSC Community Partners are reciprocal relationships with organizations based in the Greater Pittsburgh Area. CSC recognizes Community Partners for continued aid in organizing co-hosted programs, encouraging interactions between organization members, and developing a strong community within CSC, the University, and the City of Pittsburgh.
-
-## XXVI) By-Laws
-
-CSC officers must be present at the majority of CSC meetings or otherwise significantly contribute to the majority of CSC meetings.
-
-The President, Vice President, and Business Manager may choose to swap their roles at any time. Such changes must be reported to SORC.
-
-## XXVII) Amendments
-
-Amendments to this Constitution may be submitted by any active club member. For approval, an amendment must receive a two-thirds majority vote of approval from the board. Amendments must be voted on at the next upcoming meeting from when they are submitted, but their implementation, if successful, may be deferred to the next semester or academic year. Amendments cannot be passed when there is a
-
-
+All constitution additions, revisions, and deletions must be reported to SORC. Constitutional changes are not official until approved by SORC.
 
 # CSC Code of Conduct
 
