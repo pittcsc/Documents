@@ -216,9 +216,9 @@ All constitution additions, revisions, and deletions must be reported to SORC. C
 
 # CSC Code of Conduct
 
-version: v1.2
+version: v1.3
 -------------
-This code of conduct outlines our expectations for participants within the **Computer Science Club at Pitt** community as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the **Computer Science Club at Pitt** community as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may face sanctions, including banishment from the community.
 
 Our open-source community strives to:
 
@@ -292,13 +292,15 @@ We all stand on the shoulders of giants across many open source communities. We'
 version: v1.0
 -------------
 
-Our organization, while not a legal entity, holds property through University accounts and custodial ownership by members. This code outlines the expectations for club members regarding club property. The code provides a framework for dealing with property within the context of CSC membership.
+This code outlines the expectations for club members regarding club property. Our organization, while not a legal entity, holds property through University accounts and custodial ownership by members. This code provides a framework for dealing with property within the context of CSC membership. Members may face sanctions, including banishment from our community, for violations of the property code.
 
 ## Definitions of Property
 
 Property can be either physical or non-physical, monetary or non-monetary. 
 
-Club property can include items being leased to the club, to a member of the club, or items being leased between members of the club, within the context of CSC. Leased club property can include property owned by someone internal or external to CSC. In either case, all ownership and control remains with the persons in that agreement, not CSC.
+Club property can include items being leased to the club, to a member of the club, or items being leased between members of the club, within the context of CSC activities/initiatives. Leased club property can include property owned by someone internal or external to CSC. In either case, all ownership and control remains with the persons in that agreement - not CSC - however CSC can sanction members for violations involving the property of these agreements since it is in the interests of our club to set expectations regarding the stewardship of peoples' property when they make it available to members for a CSC related activity/initiative. Leased club property may or may not include an actual verbal/written contract, just the understanding that the lessee is being given access to the property within the context of CSC activities/initiative.
+
+> Contracts between CSC officers and vendors must include the following statement as per SORC guidelines: "The parties hereto agree and understand that the University of Pittsburgh is not a party to this contract and that the University of Pittsburgh is not responsible, under any circumstances for performing any obligations of this contract."
 
 Examples of physical property include, but are not limited to:
 - Merchandise
@@ -319,6 +321,8 @@ Examples of physical property include, but are not limited to:
     - TVs/Monitors
     - etc.
 - Physical cash (in accordance with SORC rules)
+- Venues
+- Vehicles
 
 Examples of non-physical property include, but are not limited to:
 - Accounts to online and offline services such as:
@@ -337,15 +341,13 @@ Examples of non-physical property include, but are not limited to:
     - etc.
 - Intellectual property
 
-Examples of leased club property include, but are not limited to:
-- Venues
-- Rental vehicles
-- A/V equipment
-
 Items that cannot become club property:
-- Items not owned by the individual or organization intending to declare the item as CSC property, with the exception of leased property
+- Items not owned by the individual or organization intending to declare the item as CSC property, with the exception of leased property which is only club property through the temporary association of the property with a CSC activity/initiative
+- Items leased with the organization's name or aliases as a signatory since the organization itself is not an entity and cannot enter contracts
 - Bank accounts (in accordance with SORC rules)
 - Illegal items (local, state, federal, international)
+- Alcohol
+- OTC/RX Medications and medical devices
 
 ## Processes
 
@@ -361,13 +363,16 @@ Items unbecome club property by:
 
 Unless explicitly agreed upon, all declarations are assumed to contain no stipulations regarding use, distribution, and reclamation.
 
-## Distribution and Collection of Club Property
+## Distribution of Club Property
 
 Distribution of club property shall be fair.
+
+Not all club property is eligible for distribution.
 
 Restrictions can be put in place by the officer team to restrict access to club property, including but not limited to:
 - Being a member of the officer team
 - Participation in a specific CSC initiative
+- Ability of member to properly store and/or use property (for its intended use) in accordance with all agreements the member is a party of (including the Pitt Residential Handbook)
 - Not having any prior conduct or club property violations
 
 Members who pass restrictions to possess club property are to be awarded club property by:
@@ -378,9 +383,9 @@ Members who pass restrictions to possess club property are to be awarded club pr
 - random selection
 - stipulations in the property declaration that allow the original owner/lessor to select the recipient
 
-Not all club property is eligible for distribution.
+## Collection of Club Property
 
-Members are required to return club property to the officer team when asked.
+Members are required to return club property to the officer team or lessor when asked unless there is an agreement in place that specifies specific collection procedures.
 
 ## Violations
 
