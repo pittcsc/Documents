@@ -54,7 +54,7 @@ CSC aspires to act as a guide and mentor for its members as they develop necessa
 2. Application and Selection: As an optional co-curricular club, CSC will not engage in a formal application or selection process. To be tendered membership, a student should provide contact information and be committed to participating regularly in CSC activities.
 3. Inactive members: Members of CSC who fail to attend or contribute to CSC activities within a period of an academic year will be presumed inactive and removed from the CSC roster.
 4. Reinstatement: To be reinstated as members, individuals should provide updated contact information and attend or contribute to CSC activities within a semester of doing so.
-5. Removal of members, awards, and honorifics: Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct at the discretion of the officers. CSC officers may suspend, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
+5. Removal of members, awards, and honorifics: Members may be suspended, removed and/or banned from the club, its events/activities, projects, digital spaces, and mailing lists, for violations of the CSC code of conduct, or CSC property code, at the discretion of the officers. CSC officers may suspend, remove and/or ban associate members from the club, its events/activities, projects, digital spaces, and mailing lists at will. CSC may revoke awards, honorifics, and other member associations at will.
 
 ## IX) Voting Privileges
 
@@ -216,9 +216,9 @@ All constitution additions, revisions, and deletions must be reported to SORC. C
 
 # CSC Code of Conduct
 
-version: v1.2
+version: v1.3
 -------------
-This code of conduct outlines our expectations for participants within the **Computer Science Club at Pitt** community as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the **Computer Science Club at Pitt** community as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may face sanctions, including banishment from the community.
 
 Our open-source community strives to:
 
@@ -286,3 +286,116 @@ We all stand on the shoulders of giants across many open source communities. We'
 * [Contributor Covenant](http://contributor-covenant.org/)
 * [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+# CSC Property Code
+
+version: v1.0
+-------------
+
+This code outlines the expectations for club members regarding club property. Our organization, while not a legal entity, holds property through University accounts and custodial ownership by members. This code provides a framework for dealing with property within the context of CSC membership. Members may face sanctions, including banishment from our community, for violations of the property code.
+
+## Definitions of Property
+
+Property can be either physical or non-physical, monetary or non-monetary. 
+
+Club property can include items being leased to the club, to a member of the club, or items being leased between members of the club, within the context of CSC activities/initiatives. Leased club property can include property owned by someone internal or external to CSC. In either case, all ownership and control remains with the persons in that agreement - not CSC - however CSC can sanction members for violations involving the property of these agreements since it is in the interests of our club to set expectations regarding the stewardship of peoples' property when they make it available to members for a CSC related activity/initiative. Leased club property may or may not include an actual verbal/written contract, just the understanding that the lessee is being given access to the property within the context of CSC activities/initiative.
+
+> Contracts between CSC officers and vendors must include the following statement as per SORC guidelines: "The parties hereto agree and understand that the University of Pittsburgh is not a party to this contract and that the University of Pittsburgh is not responsible, under any circumstances for performing any obligations of this contract."
+
+Examples of physical property include, but are not limited to:
+- Merchandise
+- Recruitment materials such as:
+    - Tables
+    - Table cloths
+    - Posters
+    - Stickers
+    - Booklets
+    - Handouts
+    - etc.
+- Computer hardware and accessories such as:
+    - CPUs
+    - GPUs
+    - Memory sticks
+    - Server racks
+    - Cables
+    - TVs/Monitors
+    - etc.
+- Physical cash (in accordance with SORC rules)
+- Venues
+- Vehicles
+
+Examples of non-physical property include, but are not limited to:
+- Accounts to online and offline services such as:
+    - E-mail
+    - Version control
+    - Hosting providers
+    - Social media
+    - Password managers
+    - AI
+    - etc.
+- Digital funds such as:
+    - Cloud credits
+    - Project stipends
+    - Travel stipends
+    - Cryptocurrencies/NFTs
+    - etc.
+- Intellectual property
+
+Items that cannot become club property:
+- Items not owned by the individual or organization intending to declare the item as CSC property, with the exception of leased property which is only club property through the temporary association of the property with a CSC activity/initiative
+- Items leased with the organization's name or aliases as a signatory since the organization itself is not an entity and cannot enter contracts
+- Bank accounts (in accordance with SORC rules)
+- Illegal items (local, state, federal, international)
+- Alcohol
+- OTC/RX Medications and medical devices
+
+## Processes
+
+The process for an item to become club property is through a declaration. The declaration can include stipulations regarding use, distribution, and the reclamation of property from the club. The simplest form of a declaration is an unrestricted donation.
+
+Items become club property by:
+1. The owner(s) declaring an item as club property, AND
+2. The CSC officers accepting the club property on behalf of the club
+
+Items unbecome club property by:
+1. Reclamation by owner(s) via terms outlined in property declaration, OR
+2. Release by officer team via gift, sale, or trade
+
+Unless explicitly agreed upon, all declarations are assumed to contain no stipulations regarding use, distribution, and reclamation.
+
+## Distribution of Club Property
+
+Distribution of club property shall be fair.
+
+Not all club property is eligible for distribution.
+
+Restrictions can be put in place by the officer team to restrict access to club property, including but not limited to:
+- Being a member of the officer team
+- Participation in a specific CSC initiative
+- Ability of member to properly store and/or use property (for its intended use) in accordance with all agreements the member is a party of (including the Pitt Residential Handbook)
+- Not having any prior conduct or club property violations
+
+Members who pass restrictions to possess club property are to be awarded club property by:
+- first-come-first-serve basis
+- having higher meeting attendance
+- having higher participation/score in another relevant quantifiable activity
+- fair competition
+- random selection
+- stipulations in the property declaration that allow the original owner/lessor to select the recipient
+
+## Collection of Club Property
+
+Members are required to return club property to the officer team or lessor when asked unless there is an agreement in place that specifies specific collection procedures.
+
+## Violations
+
+Violations of the property code include, but are not limited to:
+- Unapproved ______ of club property
+    - Use
+    - Transaction
+    - Modification
+    - Destruction
+- Improper, illegal, or unethical use of club property
+- Loss, damage, or theft of club property
+- Failure to return club property to officer team
+- Poor maintenance of club property
