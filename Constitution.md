@@ -144,11 +144,11 @@ The Events Coordinator is responsible for planning activities run by CSC. They w
 
 #### Director of Technology
 
-The Director of Technology shall be responsible for overseeing CSC’s digital infrastructure and managing technical projects essential to the club’s operations and growth. This officer shall maintain and update the CSC website, GitHub organization, internal tools, and any other technical systems or platforms utilized by the club, ensuring their functionality, security, and accessibility. The Director of Technology shall lead and coordinate technical projects, including software development, automation, and community-driven technology initiatives, while providing technical assistance for club activities such as hackathons, workshops, and tech-focused events. This role shall collaborate with other officers to support CSC’s programs and initiatives through technological integration, offering expertise and solutions to enhance club activities. The position is ideally suited for individuals passionate about software development, automation, or building technology to benefit the CSC community.
+The Director of Technology oversees CSC’s digital infrastructure and leads technical projects that support the club’s operations and growth. This includes maintaining the CSC website, GitHub organization, internal tools, and other platforms to ensure functionality, security, and accessibility. They coordinate software development, automation, and community tech initiatives, while also providing technical support for events like hackathons, workshops, and other programs. This officer works closely with the team to integrate technology into CSC’s activities and is ideal for someone passionate about building tools that serve the CSC community.
 
 #### Sponsorship Coordinator
 
-The Sponsorship Coordinator should be the main individual to plan, organize, and execute the club’s corporate sponsorship plan. They should maintain the sponsor mailing list and send periodic and timely emails to companies to gauge their willingness to sponsor.
+The Sponsorship Coordinator is responsible for planning, organizing, and executing CSC’s corporate sponsorship strategy. This includes maintaining the sponsor mailing list, sending regular outreach emails, and managing ongoing communication with current and potential sponsors. They work closely with the President and other officers to develop sponsorship packages, negotiate terms, and ensure that sponsor benefits (such as event shoutouts, logo placements, or merch distribution) are delivered effectively. The Sponsorship Coordinator plays a key role in securing funding and resources for club initiatives, and is expected to track sponsorship commitments, follow up on leads, and contribute to building long-term partnerships with industry organizations. 
 
 #### Director of Design
 
@@ -156,21 +156,11 @@ The Director of Design is responsible for all communication and interactions wit
 
 #### Director of Outreach
 
-The Director of Outreach shall be responsible for enhancing member engagement, promoting campus involvement, and developing initiatives that connect CSC to the broader University of Pittsburgh community. This officer shall collaborate with other student organizations across the University, with a particular focus on those within the School of Computing and Information (SCI), such as Women in Computer Science (WiCS), MAC, OASIS, and similar groups, to foster partnerships and cooperative efforts. The Director of Outreach shall collect feedback from CSC members to guide the creation of new events, programs, and initiatives, while proposing and executing efforts aimed at fostering an inclusive and welcoming environment within CSC. Additionally, this role shall serve as the primary liaison between CSC and the SCI administration to ensure effective collaboration and alignment between the club and the administration. The Director of Outreach may also oversee initiatives such as mentorship programs, collaborative events, and efforts related to diversity, equity, and inclusion (DEI), ensuring these align with CSC’s mission and goals.
+The Director of Outreach is responsible for promoting engagement, campus involvement, and initiatives that connect CSC to the broader Pitt community. They collaborate with other student organizations—especially within the School of Computing and Information (e.g., WiCS, MAC, OASIS)—to foster partnerships and joint efforts. This officer gathers member feedback to inform new events and programs, while leading efforts to build an inclusive and welcoming environment. They also serve as CSC’s primary liaison to the SCI administration, ensuring alignment and collaboration. Responsibilities may include overseeing mentorship programs, joint events, and DEI-related initiatives in support of CSC’s mission.
 
 #### Creative Media Officer
 
-The Creative Media Officer is responsible for driving CSC’s online presence and creative projects. They:
-
-*   Oversee social media (e.g., Instagram Reels).
-    
-*   Coordinate coverage of major events in long-form video (e.g., YouTube).
-    
-*   Facilitate collaborations with companies, influencers, and other organizations.
-    
-*   Manage Supervisor positions related to media and social media creation.
-    
-*   Are empowered, pending Executive Board approval, to create or dissolve these positions as needed to advance CSC’s social media strategy.
+The Creative Media Officer drives CSC’s online presence and creative direction. They oversee all social media platforms (e.g., Instagram, TikTok), coordinate long-form content coverage of major events (e.g., YouTube), and facilitate collaborations with companies, influencers, and other organizations. They also manage Supervisor roles related to media and social content creation, with the authority—pending Executive Board approval—to create or dissolve these positions as needed to support CSC’s social media strategy.
     
 
 XII) Terms of Office
